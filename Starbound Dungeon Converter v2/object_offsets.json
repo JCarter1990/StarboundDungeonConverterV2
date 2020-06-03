@@ -1,0 +1,11518 @@
+{
+    "adultpoptopaf": [
+        -2,
+        0
+    ],
+    "agrobataf": [
+        -2,
+        0
+    ],
+    "anglureaf": [
+        -2,
+        0
+    ],
+    "asranoxaf": [
+        -4,
+        0
+    ],
+    "batongaf": [
+        -2,
+        0
+    ],
+    "bigapeaf": [
+        -4,
+        0
+    ],
+    "bobfaeaf": [
+        -2,
+        0
+    ],
+    "bobotaf": [
+        -2,
+        0
+    ],
+    "bonedragonaf": [
+        -4,
+        0
+    ],
+    "bulbopaf": [
+        -2,
+        0
+    ],
+    "capricoataf": [
+        -2,
+        0
+    ],
+    "cosmicintruderaf": [
+        -2,
+        0
+    ],
+    "crabcanoaf": [
+        -2,
+        0
+    ],
+    "crustoiseaf": [
+        -2,
+        0
+    ],
+    "crutteraf": [
+        -2,
+        0
+    ],
+    "dreadwingaf": [
+        -4,
+        0
+    ],
+    "erchiushorroraf": [
+        -4,
+        0
+    ],
+    "fennixaf": [
+        -2,
+        0
+    ],
+    "gleapaf": [
+        -2,
+        0
+    ],
+    "gosmetaf": [
+        -2,
+        0
+    ],
+    "hemogoblinaf": [
+        -2,
+        0
+    ],
+    "hypnareaf": [
+        -2,
+        0
+    ],
+    "ignomeaf": [
+        -2,
+        0
+    ],
+    "iguarmoraf": [
+        -2,
+        0
+    ],
+    "ixodoomaf": [
+        -4,
+        0
+    ],
+    "ixolingaf": [
+        -2,
+        0
+    ],
+    "kluexavataraf": [
+        -4,
+        0
+    ],
+    "kluexsentryaf": [
+        -2,
+        0
+    ],
+    "lilodonaf": [
+        -2,
+        0
+    ],
+    "lumothaf": [
+        -2,
+        0
+    ],
+    "mandrafloraaf": [
+        -2,
+        0
+    ],
+    "miasmopaf": [
+        -2,
+        0
+    ],
+    "monopusaf": [
+        -2,
+        0
+    ],
+    "narfinaf": [
+        -2,
+        0
+    ],
+    "nutmidgeaf": [
+        -2,
+        0
+    ],
+    "oculobaf": [
+        -2,
+        0
+    ],
+    "oogleraf": [
+        -2,
+        0
+    ],
+    "orbideaf": [
+        -2,
+        0
+    ],
+    "paraspriteaf": [
+        -2,
+        0
+    ],
+    "paratailaf": [
+        -2,
+        0
+    ],
+    "peblitaf": [
+        -2,
+        0
+    ],
+    "petricubaf": [
+        -2,
+        0
+    ],
+    "pipkinaf": [
+        -2,
+        0
+    ],
+    "poptopaf": [
+        -2,
+        0
+    ],
+    "pteropodaf": [
+        -2,
+        0
+    ],
+    "pulpinaf": [
+        -2,
+        0
+    ],
+    "pyromantleaf": [
+        -2,
+        0
+    ],
+    "quagmuttaf": [
+        -2,
+        0
+    ],
+    "ringramaf": [
+        -2,
+        0
+    ],
+    "scandroidaf": [
+        -2,
+        0
+    ],
+    "scaveranaf": [
+        -2,
+        0
+    ],
+    "shockhoppermkiaf": [
+        -4,
+        0
+    ],
+    "skimbusaf": [
+        -2,
+        0
+    ],
+    "smoglinaf": [
+        -2,
+        0
+    ],
+    "snaggleraf": [
+        -2,
+        0
+    ],
+    "snauntaf": [
+        -2,
+        0
+    ],
+    "snuffishaf": [
+        -2,
+        0
+    ],
+    "spookitaf": [
+        -2,
+        0
+    ],
+    "sporgusaf": [
+        -2,
+        0
+    ],
+    "squeemaf": [
+        -2,
+        0
+    ],
+    "swansongaf": [
+        -4,
+        0
+    ],
+    "taroniaf": [
+        -2,
+        0
+    ],
+    "tinticaf": [
+        -2,
+        0
+    ],
+    "toumingoaf": [
+        -2,
+        0
+    ],
+    "trictusaf": [
+        -2,
+        0
+    ],
+    "triplodaf": [
+        -2,
+        0
+    ],
+    "voltipaf": [
+        -2,
+        0
+    ],
+    "wisperaf": [
+        -2,
+        0
+    ],
+    "yokataf": [
+        -2,
+        0
+    ],
+    "alpacacomponentrune": [
+        -8,
+        0
+    ],
+    "alpacagrowthrune": [
+        -8,
+        0
+    ],
+    "alpacahomerune": [
+        -8,
+        0
+    ],
+    "alpacaknowledgerune": [
+        -8,
+        0
+    ],
+    "alpacaliferune": [
+        -8,
+        0
+    ],
+    "alpacaruinrune": [
+        -8,
+        0
+    ],
+    "airbooster": [
+        -8,
+        0
+    ],
+    "ancientbust": [
+        -16,
+        0
+    ],
+    "ancientchest": [
+        -16,
+        0
+    ],
+    "ancientconsole": [
+        -46,
+        0
+    ],
+    "returnconsole": [
+        -46,
+        0
+    ],
+    "ancientdoor": [
+        -20,
+        0
+    ],
+    "ancientgate": [
+        -40,
+        0
+    ],
+    "ancienthiddenplatform": [
+        -17,
+        -1
+    ],
+    "ancientlight": [
+        -8,
+        0
+    ],
+    "ancientlightplatform": [
+        -17,
+        -1
+    ],
+    "ancientlightround": [
+        -8,
+        0
+    ],
+    "ancientmural1": [
+        -168,
+        -56
+    ],
+    "ancientmural2": [
+        -144,
+        -48
+    ],
+    "ancientmural3": [
+        -168,
+        -40
+    ],
+    "ancientmural4": [
+        -168,
+        -68
+    ],
+    "ancientmural5": [
+        -144,
+        -56
+    ],
+    "ancientmural6": [
+        -168,
+        -48
+    ],
+    "ancientpillar": [
+        -8,
+        0
+    ],
+    "ancientplaque1": [
+        -28,
+        -20
+    ],
+    "ancientpot1": [
+        -8,
+        0
+    ],
+    "ancientpot2": [
+        -4,
+        0
+    ],
+    "ancientpot3": [
+        -4,
+        0
+    ],
+    "ancientpot4": [
+        -8,
+        0
+    ],
+    "ancientpot5": [
+        -8,
+        0
+    ],
+    "ancientpot6": [
+        0,
+        0
+    ],
+    "ancientpressureplate": [
+        -8,
+        0
+    ],
+    "ancientprop": [
+        -8,
+        0
+    ],
+    "ancientsmallconsole": [
+        -8,
+        0
+    ],
+    "ancientstriplight1": [
+        -8,
+        0
+    ],
+    "ancientstriplight10": [
+        0,
+        -1
+    ],
+    "ancientstriplight11": [
+        0,
+        0
+    ],
+    "ancientstriplight12": [
+        0,
+        0
+    ],
+    "ancientstriplight13": [
+        0,
+        0
+    ],
+    "ancientstriplight2": [
+        -8,
+        0
+    ],
+    "ancientstriplight3": [
+        -8,
+        0
+    ],
+    "ancientstriplight4": [
+        0,
+        0
+    ],
+    "ancientstriplight5": [
+        0,
+        0
+    ],
+    "ancientstriplight6": [
+        0,
+        0
+    ],
+    "ancientstriplight7": [
+        -8,
+        0
+    ],
+    "ancientstriplight8": [
+        -8,
+        0
+    ],
+    "ancientstriplight9": [
+        -8,
+        0
+    ],
+    "ancientswitchhidden": [
+        0,
+        0
+    ],
+    "ancienttorch": [
+        0,
+        0
+    ],
+    "ancientverticaldoor": [
+        -16,
+        0
+    ],
+    "challengedoor": [
+        -16,
+        0
+    ],
+    "challengereturndoor": [
+        -16,
+        0
+    ],
+    "essencechest": [
+        -16,
+        0
+    ],
+    "hologram1": [
+        -48,
+        0
+    ],
+    "hologram2": [
+        -48,
+        0
+    ],
+    "hologram3": [
+        -52,
+        0
+    ],
+    "hologram4": [
+        -52,
+        0
+    ],
+    "hologramgalaxy": [
+        -89,
+        0
+    ],
+    "jumpbooster": [
+        -8,
+        0
+    ],
+    "largetentacleprop": [
+        -16,
+        0
+    ],
+    "lightstreaks": [
+        -352,
+        -656
+    ],
+    "monolithgate": [
+        -152,
+        0
+    ],
+    "monolithstatue1": [
+        -320,
+        0
+    ],
+    "monolithstatue2": [
+        -304,
+        0
+    ],
+    "powerbooster": [
+        -8,
+        0
+    ],
+    "sawblade2": [
+        -16,
+        0
+    ],
+    "speedbooster": [
+        -8,
+        0
+    ],
+    "gasdispenser": [
+        -8,
+        -8
+    ],
+    "largefloorspike": [
+        -8,
+        0
+    ],
+    "smallfloorspike": [
+        -8,
+        0
+    ],
+    "terraforge": [
+        -56,
+        0
+    ],
+    "wallbuttontrigger": [
+        -8,
+        -8
+    ],
+    "weaponupgradeanvil": [
+        -16,
+        0
+    ],
+    "apexapesign": [
+        -16,
+        -16
+    ],
+    "apexaquarium1": [
+        -16,
+        0
+    ],
+    "apexaquarium2": [
+        -16,
+        0
+    ],
+    "apexarmchair": [
+        -16,
+        0
+    ],
+    "apexbananasign": [
+        -16,
+        -16
+    ],
+    "apexbed": [
+        -24,
+        0
+    ],
+    "apexbloodbank": [
+        -16,
+        0
+    ],
+    "apexbrainjar": [
+        -6,
+        0
+    ],
+    "apexbustmale": [
+        -8,
+        0
+    ],
+    "apexceilingtv": [
+        -8,
+        -16
+    ],
+    "apexcomfychair": [
+        -8,
+        0
+    ],
+    "apexconsole1": [
+        -16,
+        0
+    ],
+    "apexconsolekeyboard": [
+        -16,
+        0
+    ],
+    "apexcoolbookcase": [
+        -16,
+        0
+    ],
+    "apexcoolchair": [
+        -8,
+        0
+    ],
+    "apexcoolcomputer": [
+        -10,
+        0
+    ],
+    "apexcoolcupboard": [
+        -16,
+        0
+    ],
+    "apexcooldesk": [
+        -24,
+        0
+    ],
+    "apexcooldoor": [
+        -20,
+        0
+    ],
+    "apexcoolserver": [
+        -8,
+        0
+    ],
+    "apexcoolshelf1": [
+        -24,
+        0
+    ],
+    "apexcoolshelf2": [
+        -24,
+        0
+    ],
+    "apexcooltable": [
+        -23,
+        0
+    ],
+    "apexcouch": [
+        -16,
+        0
+    ],
+    "apexcounter1": [
+        -16,
+        0
+    ],
+    "apexcounter2": [
+        -16,
+        0
+    ],
+    "apexcurtain": [
+        -8,
+        -16
+    ],
+    "apexdesk": [
+        -16,
+        0
+    ],
+    "apexdonotenter": [
+        -16,
+        -8
+    ],
+    "apexflusign": [
+        -16,
+        -16
+    ],
+    "apexfridge": [
+        -8,
+        0
+    ],
+    "apexhdtv": [
+        -40,
+        -24
+    ],
+    "apexlamp1": [
+        -6,
+        0
+    ],
+    "apexlamp2": [
+        -7,
+        0
+    ],
+    "apexlamp3": [
+        -8,
+        -8
+    ],
+    "apexlevel1sign": [
+        -16,
+        -16
+    ],
+    "apexlocker": [
+        -8,
+        0
+    ],
+    "apexmedsign": [
+        -8,
+        -8
+    ],
+    "apexmocksign": [
+        -8,
+        -16
+    ],
+    "apexnameplate": [
+        -12,
+        0
+    ],
+    "apexobeysign": [
+        -8,
+        -16
+    ],
+    "apexofficechair": [
+        -8,
+        0
+    ],
+    "apexoven": [
+        -8,
+        0
+    ],
+    "apexpainting1": [
+        -16,
+        -8
+    ],
+    "apexpainting2": [
+        -8,
+        -8
+    ],
+    "apexpainting3": [
+        -8,
+        -8
+    ],
+    "apexpainting4": [
+        -8,
+        -8
+    ],
+    "apexpainting5": [
+        -16,
+        -8
+    ],
+    "apexpiano": [
+        -16,
+        0
+    ],
+    "apexpod": [
+        -16,
+        0
+    ],
+    "apexpod2": [
+        -16,
+        0
+    ],
+    "apexradio": [
+        -8,
+        0
+    ],
+    "apexrecordplayer": [
+        -8,
+        0
+    ],
+    "apexsink": [
+        -8,
+        0
+    ],
+    "apexslidingdoor1": [
+        0,
+        0
+    ],
+    "apexslidingdoor2": [
+        0,
+        0
+    ],
+    "apexspeaker": [
+        -8,
+        -8
+    ],
+    "apexstatue": [
+        -8,
+        0
+    ],
+    "apexstatue1": [
+        -8,
+        0
+    ],
+    "apexstatue2": [
+        -8,
+        0
+    ],
+    "apexstatue3": [
+        -8,
+        0
+    ],
+    "apexstoragelocker": [
+        -16,
+        -8
+    ],
+    "apexstoreshelf": [
+        -24,
+        0
+    ],
+    "apexstoresign": [
+        -40,
+        -8
+    ],
+    "apextable": [
+        -16,
+        0
+    ],
+    "apextablelamp": [
+        0,
+        0
+    ],
+    "apextent": [
+        -24,
+        0
+    ],
+    "apexthoughtreassign": [
+        -23,
+        -8
+    ],
+    "apextorturebed": [
+        -23,
+        0
+    ],
+    "apextv": [
+        -16,
+        0
+    ],
+    "apexwallpainting1": [
+        -16,
+        -16
+    ],
+    "apexwallpainting2": [
+        -8,
+        -32
+    ],
+    "apexwardrobe": [
+        -16,
+        0
+    ],
+    "apexwoodenchair": [
+        -8,
+        0
+    ],
+    "apexwoodenshelves": [
+        -16,
+        0
+    ],
+    "apexwoodpanel": [
+        -8,
+        -16
+    ],
+    "arrowsign": [
+        -8,
+        0
+    ],
+    "blueflask": [
+        0,
+        0
+    ],
+    "cider": [
+        0,
+        0
+    ],
+    "classicapestatue": [
+        -16,
+        0
+    ],
+    "classicapestatuenohead": [
+        -16,
+        0
+    ],
+    "classicbardoor": [
+        -16,
+        0
+    ],
+    "classicbed": [
+        -24,
+        0
+    ],
+    "classicbookcase": [
+        -16,
+        0
+    ],
+    "classicbowl": [
+        0,
+        0
+    ],
+    "classiccandlestick": [
+        -9,
+        0
+    ],
+    "classicchair": [
+        -8,
+        0
+    ],
+    "classicchandelier": [
+        -20,
+        -16
+    ],
+    "classicchest": [
+        -8,
+        0
+    ],
+    "classicchina": [
+        -8,
+        0
+    ],
+    "classiccupboard": [
+        -16,
+        0
+    ],
+    "classiccurtain1": [
+        -16,
+        -8
+    ],
+    "classiccurtain2": [
+        -16,
+        -16
+    ],
+    "classiccurtain3": [
+        -8,
+        -16
+    ],
+    "classicdesk": [
+        -16,
+        0
+    ],
+    "classicdiningtable": [
+        -40,
+        0
+    ],
+    "classicdoor": [
+        -16,
+        0
+    ],
+    "classicfountain": [
+        -16,
+        0
+    ],
+    "classicglass": [
+        0,
+        0
+    ],
+    "classiclight": [
+        0,
+        0
+    ],
+    "classiclightart": [
+        -8,
+        -8
+    ],
+    "classicmug": [
+        0,
+        0
+    ],
+    "classicpillarsmall": [
+        -8,
+        0
+    ],
+    "classicplate": [
+        0,
+        0
+    ],
+    "classictable": [
+        -24,
+        0
+    ],
+    "electricsign": [
+        -8,
+        -8
+    ],
+    "fantasyboardgame": [
+        -24,
+        -8
+    ],
+    "flowerbasket1": [
+        -8,
+        -8
+    ],
+    "flowerbasket2": [
+        -8,
+        -8
+    ],
+    "flowerbed1": [
+        -24,
+        0
+    ],
+    "flowerbed2": [
+        -24,
+        0
+    ],
+    "grandfatherclock": [
+        -8,
+        0
+    ],
+    "greenflask": [
+        0,
+        0
+    ],
+    "microscope": [
+        -8,
+        0
+    ],
+    "plasmadisc": [
+        -6,
+        1
+    ],
+    "reddangersign": [
+        -16,
+        -8
+    ],
+    "redflask": [
+        0,
+        0
+    ],
+    "sandbags": [
+        -16,
+        0
+    ],
+    "apexsecuritycamera": [
+        0,
+        0
+    ],
+    "tesla": [
+        -8,
+        0
+    ],
+    "teslaspike": [
+        0,
+        0
+    ],
+    "apexturret": [
+        -12,
+        0
+    ],
+    "vaseclassiclarge1": [
+        -8,
+        0
+    ],
+    "vaseclassiclarge2": [
+        -8,
+        0
+    ],
+    "vaseclassicmedium1": [
+        0,
+        0
+    ],
+    "vaseclassicmedium2": [
+        0,
+        0
+    ],
+    "vaseclassicsmall1": [
+        0,
+        0
+    ],
+    "vaseclassicsmall2": [
+        0,
+        0
+    ],
+    "benjaminstatue": [
+        -8,
+        0
+    ],
+    "cameronstatue": [
+        -8,
+        0
+    ],
+    "memorialstatue": [
+        -8,
+        0
+    ],
+    "oliverstatue": [
+        -8,
+        0
+    ],
+    "derrickstatue": [
+        -24,
+        0
+    ],
+    "flowerstatue": [
+        -8,
+        0
+    ],
+    "genericpainting1": [
+        -16,
+        -16
+    ],
+    "glitchianman": [
+        -15,
+        -16
+    ],
+    "glitchspeare": [
+        -8,
+        -16
+    ],
+    "goldenegg": [
+        -4,
+        0
+    ],
+    "paintingapegothic": [
+        -16,
+        -16
+    ],
+    "paintingapescream": [
+        -8,
+        -16
+    ],
+    "paintingapespeare": [
+        -8,
+        -16
+    ],
+    "paintingapexpearlearring": [
+        -8,
+        -8
+    ],
+    "paintingapexpixellisa": [
+        -8,
+        -16
+    ],
+    "paintingapexwithermine": [
+        -8,
+        -16
+    ],
+    "paintingbirthofapevenus": [
+        -16,
+        -24
+    ],
+    "paintingbirthofvenus": [
+        -16,
+        -24
+    ],
+    "paintingcreationofapepixel": [
+        -32,
+        -24
+    ],
+    "paintingcreationofpixel": [
+        -32,
+        -24
+    ],
+    "paintinggothic": [
+        -16,
+        -16
+    ],
+    "paintingmonalisa": [
+        -8,
+        -16
+    ],
+    "paintingpearlearring": [
+        -8,
+        -8
+    ],
+    "paintingscream": [
+        -8,
+        -16
+    ],
+    "paintingshakespeare": [
+        -8,
+        -16
+    ],
+    "paintingstarrynight": [
+        -16,
+        -16
+    ],
+    "persistenceofpixels": [
+        -16,
+        -16
+    ],
+    "rainbowpainting": [
+        -16,
+        -16
+    ],
+    "rainbowunicornstatue": [
+        -15,
+        0
+    ],
+    "sandstonestatueapex": [
+        -8,
+        0
+    ],
+    "sandstonestatueavian": [
+        -8,
+        0
+    ],
+    "sandstonestatuefloran": [
+        -8,
+        0
+    ],
+    "sandstonestatueglitch": [
+        -8,
+        0
+    ],
+    "sandstonestatuehuman": [
+        -8,
+        0
+    ],
+    "sandstonestatuehylotl": [
+        -8,
+        0
+    ],
+    "selfportraitofhylotlshu": [
+        -24,
+        -32
+    ],
+    "shroomstatue": [
+        -8,
+        0
+    ],
+    "tenstudiesinfemalehylotlgy": [
+        -32,
+        -32
+    ],
+    "venusdepixel": [
+        -8,
+        0
+    ],
+    "airemblem": [
+        -12,
+        -16
+    ],
+    "altaravian": [
+        -8,
+        0
+    ],
+    "altarbunny": [
+        -8,
+        0
+    ],
+    "anchor": [
+        -14,
+        -35
+    ],
+    "ashjar1": [
+        3,
+        0
+    ],
+    "ashjar2": [
+        3,
+        0
+    ],
+    "ashjar3": [
+        2,
+        0
+    ],
+    "avianbanner1": [
+        -8,
+        -24
+    ],
+    "avianbanner2": [
+        -8,
+        -32
+    ],
+    "avianbanner3": [
+        -8,
+        -24
+    ],
+    "avianbanner4": [
+        0,
+        -8
+    ],
+    "avianbench1": [
+        -16,
+        0
+    ],
+    "avianbench2": [
+        -16,
+        0
+    ],
+    "avianpressureplate": [
+        -8,
+        0
+    ],
+    "avianstoragelocker": [
+        -16,
+        -8
+    ],
+    "avianswitchhidden1": [
+        0,
+        0
+    ],
+    "avianswitchhidden2": [
+        0,
+        0
+    ],
+    "avianwaterlight": [
+        -2,
+        -2
+    ],
+    "bardoor2": [
+        -16,
+        0
+    ],
+    "bardoor2sideways": [
+        -16,
+        0
+    ],
+    "bardoor3": [
+        -24,
+        0
+    ],
+    "bigjar1": [
+        -8,
+        0
+    ],
+    "birdaltar2": [
+        -16,
+        0
+    ],
+    "birdbed": [
+        -16,
+        0
+    ],
+    "birddoor": [
+        -16,
+        0
+    ],
+    "birdgodemblem": [
+        -48,
+        -32
+    ],
+    "birdgong1": [
+        -9,
+        0
+    ],
+    "birdgong2": [
+        -9,
+        0
+    ],
+    "birdgroundlantern": [
+        0,
+        0
+    ],
+    "birdjar1": [
+        -8,
+        0
+    ],
+    "birdjar2": [
+        0,
+        0
+    ],
+    "birdtable": [
+        -16,
+        0
+    ],
+    "birdthrone": [
+        -6,
+        0
+    ],
+    "chestavian1": [
+        -8,
+        0
+    ],
+    "chestavian2": [
+        -8,
+        0
+    ],
+    "chestmedavian1": [
+        -8,
+        0
+    ],
+    "chestmedavian2": [
+        -8,
+        0
+    ],
+    "consoletribal1": [
+        -8,
+        0
+    ],
+    "consoletribal2": [
+        -8,
+        0
+    ],
+    "consoletribal3": [
+        -8,
+        0
+    ],
+    "consoletribal4": [
+        -16,
+        0
+    ],
+    "consoletribalwall": [
+        -8,
+        0
+    ],
+    "crystaltorch": [
+        0,
+        0
+    ],
+    "decorativewallrug1": [
+        -16,
+        -16
+    ],
+    "decorativewallrug2": [
+        -16,
+        -16
+    ],
+    "earthemblem": [
+        -8,
+        -16
+    ],
+    "feathers1": [
+        -24,
+        0
+    ],
+    "feathers2": [
+        -24,
+        0
+    ],
+    "featherybird": [
+        -16,
+        0
+    ],
+    "fireemblem": [
+        -8,
+        -16
+    ],
+    "goldenducky": [
+        0,
+        0
+    ],
+    "goldenjar1": [
+        0,
+        0
+    ],
+    "goldenurn": [
+        -8,
+        0
+    ],
+    "idolsupport": [
+        -16,
+        0
+    ],
+    "lamp": [
+        0,
+        0
+    ],
+    "marketstall1": [
+        -24,
+        0
+    ],
+    "marketstall2": [
+        -24,
+        0
+    ],
+    "marketstall3": [
+        -24,
+        0
+    ],
+    "marketstall4": [
+        -16,
+        0
+    ],
+    "marketstall5": [
+        -24,
+        0
+    ],
+    "mask1": [
+        -8,
+        -8
+    ],
+    "mask2": [
+        -8,
+        -8
+    ],
+    "mask3": [
+        -8,
+        -8
+    ],
+    "mask4": [
+        -8,
+        -8
+    ],
+    "mask5": [
+        -8,
+        -8
+    ],
+    "mask6": [
+        -8,
+        -8
+    ],
+    "midjar1": [
+        2,
+        0
+    ],
+    "moonemblem": [
+        -16,
+        -16
+    ],
+    "obsidianbookcase": [
+        -16,
+        0
+    ],
+    "owlclock": [
+        -8,
+        -8
+    ],
+    "propeller": [
+        -28,
+        0
+    ],
+    "sacrificialaltar": [
+        -24,
+        0
+    ],
+    "sarcoavian1": [
+        -8,
+        0
+    ],
+    "sarcoavian2": [
+        -8,
+        0
+    ],
+    "sarcobunny": [
+        -8,
+        0
+    ],
+    "sarcohuman": [
+        -8,
+        0
+    ],
+    "sarcohumanalive": [
+        -8,
+        0
+    ],
+    "sawblade": [
+        -16,
+        0
+    ],
+    "screen1": [
+        0,
+        0
+    ],
+    "screen2": [
+        0,
+        0
+    ],
+    "screen3": [
+        0,
+        0
+    ],
+    "screen4": [
+        0,
+        0
+    ],
+    "screen5": [
+        0,
+        0
+    ],
+    "shipwheel": [
+        -16,
+        0
+    ],
+    "smalljar1": [
+        0,
+        0
+    ],
+    "spearrack": [
+        -8,
+        0
+    ],
+    "sundecor": [
+        -16,
+        -16
+    ],
+    "talljar1": [
+        0,
+        0
+    ],
+    "talljar2": [
+        0,
+        0
+    ],
+    "templehiddendoor": [
+        -16,
+        0
+    ],
+    "templehiddentrapdoor": [
+        -16,
+        -8
+    ],
+    "tombstatueavian": [
+        -13,
+        0
+    ],
+    "tombstatuebunny": [
+        -8,
+        0
+    ],
+    "tombstone1": [
+        -8,
+        0
+    ],
+    "tombstone10": [
+        -8,
+        0
+    ],
+    "tombstone11": [
+        -8,
+        0
+    ],
+    "tombstone2": [
+        -8,
+        0
+    ],
+    "tombstone3": [
+        -8,
+        0
+    ],
+    "tombstone4": [
+        -8,
+        0
+    ],
+    "tombstone5": [
+        -8,
+        0
+    ],
+    "tombstone6": [
+        -8,
+        0
+    ],
+    "tombstone7": [
+        -8,
+        0
+    ],
+    "tombstone8": [
+        -8,
+        0
+    ],
+    "tombstone9": [
+        -8,
+        0
+    ],
+    "tombthing1": [
+        -24,
+        0
+    ],
+    "tombthing2": [
+        -24,
+        0
+    ],
+    "tombthing3": [
+        -24,
+        0
+    ],
+    "tombthing4": [
+        -24,
+        0
+    ],
+    "treasuremap": [
+        -20,
+        -20
+    ],
+    "tribalbed2": [
+        -24,
+        0
+    ],
+    "tribalbookcase1": [
+        -16,
+        0
+    ],
+    "tribalbookcase2": [
+        -16,
+        0
+    ],
+    "tribalcabinet1": [
+        -8,
+        0
+    ],
+    "tribalcloset1": [
+        -16,
+        0
+    ],
+    "tribalcounter1": [
+        -8,
+        0
+    ],
+    "tribaldoor": [
+        -16,
+        0
+    ],
+    "triballamp": [
+        0,
+        0
+    ],
+    "tribalserver": [
+        -8,
+        0
+    ],
+    "tribaltable": [
+        -24,
+        0
+    ],
+    "tribalwallcabinet": [
+        -8,
+        -8
+    ],
+    "wateremblem": [
+        -8,
+        -15
+    ],
+    "windchicken": [
+        -8,
+        0
+    ],
+    "wingedurn": [
+        -16,
+        0
+    ],
+    "alienbed": [
+        -24,
+        0
+    ],
+    "alienchair": [
+        -8,
+        0
+    ],
+    "alienchest": [
+        -8,
+        0
+    ],
+    "aliendoor": [
+        -16,
+        0
+    ],
+    "alienglowplant1": [
+        -2,
+        0
+    ],
+    "alientable": [
+        -16,
+        0
+    ],
+    "mistprimer": [
+        -16,
+        0
+    ],
+    "stonebed": [
+        -24,
+        0
+    ],
+    "stonechair": [
+        -8,
+        0
+    ],
+    "stonechest": [
+        -8,
+        0
+    ],
+    "stonedoor": [
+        -20,
+        0
+    ],
+    "stonetable": [
+        -16,
+        0
+    ],
+    "glowbed": [
+        -24,
+        0
+    ],
+    "glowbush1": [
+        -16,
+        0
+    ],
+    "glowbush2": [
+        -16,
+        0
+    ],
+    "glowbush3": [
+        -16,
+        0
+    ],
+    "glowbush4": [
+        -13,
+        0
+    ],
+    "glowbush5": [
+        -13,
+        0
+    ],
+    "glowbushlamp": [
+        -8,
+        0
+    ],
+    "glowchair": [
+        -8,
+        0
+    ],
+    "glowchest": [
+        -8,
+        0
+    ],
+    "glowflower1": [
+        -8,
+        0
+    ],
+    "glowflower2": [
+        -8,
+        0
+    ],
+    "glowflower3": [
+        -8,
+        0
+    ],
+    "glowflower4": [
+        -8,
+        0
+    ],
+    "glowflower5": [
+        -8,
+        0
+    ],
+    "glowflowerlamp": [
+        -8,
+        0
+    ],
+    "glowroot1": [
+        0,
+        0
+    ],
+    "glowroot2": [
+        0,
+        0
+    ],
+    "glowroot3": [
+        0,
+        0
+    ],
+    "glowroot4": [
+        0,
+        0
+    ],
+    "glowroot5": [
+        0,
+        0
+    ],
+    "glowtree1": [
+        -24,
+        0
+    ],
+    "glowtree2": [
+        -26,
+        0
+    ],
+    "glowtree3": [
+        -27,
+        0
+    ],
+    "glowtree4": [
+        -17,
+        0
+    ],
+    "glowtree5": [
+        -24,
+        0
+    ],
+    "glowvine1": [
+        -8,
+        0
+    ],
+    "glowvine2": [
+        -16,
+        0
+    ],
+    "glowvine3": [
+        -11,
+        0
+    ],
+    "glowvine4": [
+        -11,
+        0
+    ],
+    "glowvine5": [
+        -10,
+        0
+    ],
+    "glowvinelamp": [
+        -6,
+        0
+    ],
+    "bioshroom1": [
+        -8,
+        0
+    ],
+    "bioshroom2": [
+        -8,
+        0
+    ],
+    "bioshroom3": [
+        -8,
+        0
+    ],
+    "bioshroom4": [
+        -8,
+        0
+    ],
+    "bioshroom5": [
+        -8,
+        0
+    ],
+    "bioshroomtable": [
+        -16,
+        0
+    ],
+    "biovine1": [
+        -8,
+        -21
+    ],
+    "biovine2": [
+        -8,
+        -13
+    ],
+    "biovine3": [
+        -8,
+        -14
+    ],
+    "biovine4": [
+        -8,
+        -16
+    ],
+    "biovine5": [
+        -8,
+        -25
+    ],
+    "bonebed": [
+        -24,
+        0
+    ],
+    "bonechair": [
+        -12,
+        0
+    ],
+    "bonechest": [
+        -8,
+        0
+    ],
+    "bonedoor": [
+        -18,
+        0
+    ],
+    "bonetable": [
+        -16,
+        0
+    ],
+    "smashbones1": [
+        0,
+        0
+    ],
+    "smashbones2": [
+        0,
+        0
+    ],
+    "smashbones3": [
+        0,
+        0
+    ],
+    "smashbones4": [
+        0,
+        0
+    ],
+    "brainsynapse1": [
+        0,
+        0
+    ],
+    "buglike1": [
+        -16,
+        0
+    ],
+    "buglike10": [
+        -8,
+        -28
+    ],
+    "buglike2": [
+        -16,
+        0
+    ],
+    "buglike3": [
+        -8,
+        0
+    ],
+    "buglike4": [
+        -16,
+        0
+    ],
+    "buglike5": [
+        -16,
+        0
+    ],
+    "buglike6": [
+        -16,
+        -8
+    ],
+    "buglike7": [
+        -8,
+        -12
+    ],
+    "buglike8": [
+        -8,
+        -22
+    ],
+    "buglike9": [
+        -24,
+        -16
+    ],
+    "cellchair": [
+        -8,
+        0
+    ],
+    "cellchest": [
+        -8,
+        0
+    ],
+    "celldoor": [
+        0,
+        0
+    ],
+    "celllamp": [
+        -6,
+        0
+    ],
+    "celltable": [
+        -16,
+        0
+    ],
+    "cellstructure1": [
+        0,
+        0
+    ],
+    "cellstructure2": [
+        0,
+        0
+    ],
+    "cellstructure3": [
+        0,
+        0
+    ],
+    "cellstructure4": [
+        0,
+        0
+    ],
+    "cellstructure5": [
+        0,
+        0
+    ],
+    "dnaplant1": [
+        0,
+        0
+    ],
+    "dnaplant2": [
+        0,
+        0
+    ],
+    "dnaplant3": [
+        0,
+        0
+    ],
+    "dnaplant4": [
+        0,
+        0
+    ],
+    "colourfulbush1": [
+        0,
+        0
+    ],
+    "colourfulbush2": [
+        0,
+        0
+    ],
+    "colourfulbush3": [
+        0,
+        0
+    ],
+    "colourfulbush4": [
+        0,
+        0
+    ],
+    "colourfulbush5": [
+        0,
+        0
+    ],
+    "rainbowbed": [
+        -24,
+        0
+    ],
+    "rainbowchair": [
+        -8,
+        0
+    ],
+    "rainbowchest": [
+        -8,
+        0
+    ],
+    "rainbowdoor": [
+        -16,
+        0
+    ],
+    "rainbowtable": [
+        -16,
+        0
+    ],
+    "embercoral1": [
+        0,
+        0
+    ],
+    "embercoral2": [
+        0,
+        0
+    ],
+    "embercoral3": [
+        0,
+        0
+    ],
+    "embercoral4": [
+        0,
+        0
+    ],
+    "embercoral5": [
+        0,
+        0
+    ],
+    "crystalcavebush1": [
+        0,
+        0
+    ],
+    "crystalcavebush2": [
+        0,
+        0
+    ],
+    "crystalcavebush3": [
+        0,
+        0
+    ],
+    "crystalcavebush4": [
+        0,
+        0
+    ],
+    "crystalbed": [
+        -24,
+        0
+    ],
+    "crystalchair": [
+        -8,
+        0
+    ],
+    "crystalchest": [
+        -8,
+        0
+    ],
+    "crystallamp": [
+        0,
+        0
+    ],
+    "crystallinebush1": [
+        0,
+        0
+    ],
+    "crystallinebush2": [
+        0,
+        0
+    ],
+    "crystallinebush3": [
+        0,
+        0
+    ],
+    "crystallinebush4": [
+        0,
+        0
+    ],
+    "crystaltable": [
+        -16,
+        0
+    ],
+    "shadowchest": [
+        -8,
+        0
+    ],
+    "shadowchimes": [
+        -8,
+        -8
+    ],
+    "shadowmarker": [
+        -16,
+        0
+    ],
+    "shadowrock1": [
+        -8,
+        0
+    ],
+    "shadowrock2": [
+        -8,
+        0
+    ],
+    "shadowrock3": [
+        -8,
+        0
+    ],
+    "shadowrock4": [
+        -8,
+        0
+    ],
+    "shadowrock5": [
+        -8,
+        0
+    ],
+    "shadowshrine": [
+        -24,
+        0
+    ],
+    "shadowshrine2": [
+        -7,
+        0
+    ],
+    "shadowshrine3": [
+        -14,
+        0
+    ],
+    "shadowurnlarge1": [
+        -8,
+        0
+    ],
+    "shadowurnlarge2": [
+        -8,
+        0
+    ],
+    "shadowurnmedium1": [
+        0,
+        0
+    ],
+    "shadowurnmedium2": [
+        0,
+        0
+    ],
+    "shadowurnsmall1": [
+        0,
+        0
+    ],
+    "shadowurnsmall2": [
+        0,
+        0
+    ],
+    "sandstonebed": [
+        -24,
+        0
+    ],
+    "sandstonechair": [
+        -8,
+        0
+    ],
+    "sandstonechest": [
+        -8,
+        0
+    ],
+    "sandstonedoor": [
+        -16,
+        0
+    ],
+    "sandstonetable": [
+        -16,
+        0
+    ],
+    "sandstonetorch": [
+        0,
+        0
+    ],
+    "eyebed": [
+        -24,
+        0
+    ],
+    "eyechair": [
+        -8,
+        0
+    ],
+    "eyechest": [
+        -8,
+        0
+    ],
+    "eyedoor": [
+        -16,
+        0
+    ],
+    "eyetable": [
+        -16,
+        0
+    ],
+    "dripblood1": [
+        0,
+        0
+    ],
+    "fleshbed": [
+        -24,
+        0
+    ],
+    "fleshbush1": [
+        0,
+        0
+    ],
+    "fleshbush2": [
+        0,
+        0
+    ],
+    "fleshbush3": [
+        0,
+        0
+    ],
+    "fleshbush4": [
+        0,
+        0
+    ],
+    "fleshbush5": [
+        0,
+        0
+    ],
+    "fleshbush6": [
+        0,
+        0
+    ],
+    "fleshchair": [
+        -8,
+        0
+    ],
+    "fleshchest": [
+        -8,
+        0
+    ],
+    "fleshdoor": [
+        -20,
+        0
+    ],
+    "fleshtable": [
+        -16,
+        0
+    ],
+    "foundrybed": [
+        -24,
+        0
+    ],
+    "foundrybellow": [
+        -24,
+        0
+    ],
+    "foundrybutton": [
+        -8,
+        -8
+    ],
+    "foundrychair": [
+        -12,
+        0
+    ],
+    "foundryconsole": [
+        -24,
+        0
+    ],
+    "foundrydoor": [
+        -16,
+        0
+    ],
+    "foundryelevatorlong": [
+        -16,
+        0
+    ],
+    "foundryelevatorshort": [
+        -16,
+        0
+    ],
+    "foundrylight": [
+        -8,
+        0
+    ],
+    "foundryand": [
+        -8,
+        -8
+    ],
+    "foundrycountdowntimer": [
+        -8,
+        -8
+    ],
+    "foundrydelay": [
+        -8,
+        -8
+    ],
+    "foundrydlatch": [
+        -8,
+        -8
+    ],
+    "foundrynot": [
+        -8,
+        -8
+    ],
+    "foundryor": [
+        -8,
+        -8
+    ],
+    "foundrytimer": [
+        -8,
+        -8
+    ],
+    "foundrytimer1s": [
+        -8,
+        -8
+    ],
+    "foundrytimer2s": [
+        -8,
+        -8
+    ],
+    "foundrytimer3s": [
+        -8,
+        -8
+    ],
+    "foundrytimer4s": [
+        -8,
+        -8
+    ],
+    "foundrytimer5s": [
+        -8,
+        -8
+    ],
+    "foundryxor": [
+        -8,
+        -8
+    ],
+    "foundrysign": [
+        -10,
+        0
+    ],
+    "foundrysupport": [
+        0,
+        0
+    ],
+    "foundryswitch": [
+        -8,
+        -8
+    ],
+    "ladlelarge": [
+        -24,
+        0
+    ],
+    "ladlesmall": [
+        -15,
+        0
+    ],
+    "lavatankcascade": [
+        -32,
+        0
+    ],
+    "lavatanklarge": [
+        -24,
+        0
+    ],
+    "lavatanksmall": [
+        -24,
+        0
+    ],
+    "magmalamp": [
+        -8,
+        0
+    ],
+    "frozenmistprimer": [
+        -16,
+        0
+    ],
+    "geometricshard1": [
+        0,
+        0
+    ],
+    "geometricshard2": [
+        0,
+        0
+    ],
+    "geometricshard3": [
+        0,
+        0
+    ],
+    "geometricshard4": [
+        0,
+        0
+    ],
+    "geometricshard5": [
+        0,
+        0
+    ],
+    "frozenfirechair": [
+        -13,
+        0
+    ],
+    "geodebed": [
+        -24,
+        0
+    ],
+    "geodeceilinglight": [
+        -12,
+        0
+    ],
+    "geodechair": [
+        -8,
+        0
+    ],
+    "geodedoor": [
+        -16,
+        0
+    ],
+    "geodeplantpot": [
+        -8,
+        0
+    ],
+    "geodebnatural": [
+        -8,
+        0
+    ],
+    "geodebnote": [
+        -8,
+        0
+    ],
+    "geodecnatural": [
+        -8,
+        0
+    ],
+    "geodecnote": [
+        -8,
+        0
+    ],
+    "geodednatural": [
+        -8,
+        0
+    ],
+    "geodednote": [
+        -8,
+        0
+    ],
+    "geodeenote": [
+        -8,
+        0
+    ],
+    "geodefnote": [
+        -8,
+        0
+    ],
+    "geodegnote": [
+        -8,
+        0
+    ],
+    "geodehighanatural": [
+        -8,
+        0
+    ],
+    "geodehighanote": [
+        -8,
+        0
+    ],
+    "geodelowanatural": [
+        -8,
+        0
+    ],
+    "geodelowanote": [
+        -8,
+        0
+    ],
+    "aegisaltsample": [
+        -2,
+        0
+    ],
+    "coalsample": [
+        -2,
+        0
+    ],
+    "coppersample": [
+        -2,
+        0
+    ],
+    "corefragmentsample": [
+        -2,
+        0
+    ],
+    "diamondsample": [
+        -2,
+        0
+    ],
+    "durasteelsample": [
+        -2,
+        0
+    ],
+    "erchiuscrystalsample": [
+        -2,
+        0
+    ],
+    "feroziumsample": [
+        -2,
+        0
+    ],
+    "geodebluesample": [
+        0,
+        0
+    ],
+    "geodegreensample": [
+        0,
+        0
+    ],
+    "geodeorangesample": [
+        0,
+        0
+    ],
+    "geodepurplesample": [
+        0,
+        0
+    ],
+    "geoderedsample": [
+        0,
+        0
+    ],
+    "geodeyellowsample": [
+        0,
+        0
+    ],
+    "goldsample": [
+        -2,
+        0
+    ],
+    "ironsample": [
+        -2,
+        0
+    ],
+    "platinumsample": [
+        -2,
+        0
+    ],
+    "plutoniumsample": [
+        -2,
+        0
+    ],
+    "prisilitesample": [
+        -2,
+        0
+    ],
+    "silversample": [
+        -2,
+        0
+    ],
+    "solariumsample": [
+        -2,
+        0
+    ],
+    "titaniumsample": [
+        -2,
+        0
+    ],
+    "tungstensample": [
+        -2,
+        0
+    ],
+    "uraniumsample": [
+        -2,
+        0
+    ],
+    "violiumsample": [
+        -2,
+        0
+    ],
+    "giantflower1": [
+        0,
+        0
+    ],
+    "giantflower2": [
+        0,
+        0
+    ],
+    "giantflower3": [
+        0,
+        0
+    ],
+    "giantflower4": [
+        0,
+        0
+    ],
+    "giantflowerbed": [
+        -24,
+        0
+    ],
+    "giantflowerchair": [
+        -8,
+        0
+    ],
+    "giantflowerchest": [
+        -8,
+        0
+    ],
+    "giantflowerdoor": [
+        -16,
+        0
+    ],
+    "giantflowerlamp": [
+        -8,
+        0
+    ],
+    "giantflowertable": [
+        -16,
+        0
+    ],
+    "smallchurch": [
+        -24,
+        0
+    ],
+    "smallclocktower": [
+        -24,
+        0
+    ],
+    "smallhouse1": [
+        -8,
+        0
+    ],
+    "smallhouse10": [
+        -8,
+        0
+    ],
+    "smallhouse11": [
+        -8,
+        0
+    ],
+    "smallhouse2": [
+        -8,
+        0
+    ],
+    "smallhouse3": [
+        -8,
+        0
+    ],
+    "smallhouse4": [
+        -8,
+        0
+    ],
+    "smallhouse5": [
+        -8,
+        0
+    ],
+    "smallhouse6": [
+        -8,
+        0
+    ],
+    "smallhouse7": [
+        -8,
+        0
+    ],
+    "smallhouse8": [
+        -8,
+        0
+    ],
+    "smallhouse9": [
+        -8,
+        0
+    ],
+    "smallinn": [
+        -8,
+        0
+    ],
+    "smalllamppost": [
+        0,
+        0
+    ],
+    "smallwindmill": [
+        -8,
+        0
+    ],
+    "hivebed": [
+        -24,
+        0
+    ],
+    "hivebush1": [
+        -8,
+        0
+    ],
+    "hivebush2": [
+        -8,
+        0
+    ],
+    "hivebush3": [
+        -8,
+        0
+    ],
+    "hivebush4": [
+        -8,
+        0
+    ],
+    "hivebush5": [
+        -8,
+        0
+    ],
+    "hivechair": [
+        -16,
+        0
+    ],
+    "hivechest": [
+        -8,
+        0
+    ],
+    "hivedoor": [
+        -16,
+        0
+    ],
+    "hivelamp": [
+        0,
+        0
+    ],
+    "hivelight1": [
+        -8,
+        0
+    ],
+    "hivelight2": [
+        0,
+        0
+    ],
+    "hivetable": [
+        -16,
+        0
+    ],
+    "icebed": [
+        -24,
+        0
+    ],
+    "icechair": [
+        -8,
+        0
+    ],
+    "icechest": [
+        -8,
+        0
+    ],
+    "icedoor": [
+        -16,
+        0
+    ],
+    "icemachine": [
+        -16,
+        0
+    ],
+    "iceshard1": [
+        0,
+        0
+    ],
+    "iceshard2": [
+        0,
+        0
+    ],
+    "iceshard3": [
+        0,
+        0
+    ],
+    "iceshard4": [
+        0,
+        0
+    ],
+    "iceshard5": [
+        0,
+        0
+    ],
+    "icetable": [
+        -16,
+        0
+    ],
+    "snowglobe1": [
+        -8,
+        0
+    ],
+    "snowglobe2": [
+        -8,
+        0
+    ],
+    "icesphere1": [
+        0,
+        0
+    ],
+    "icesphere2": [
+        0,
+        0
+    ],
+    "icesphere3": [
+        0,
+        0
+    ],
+    "icesphere4": [
+        0,
+        0
+    ],
+    "icespherechest": [
+        -8,
+        0
+    ],
+    "beanstalk": [
+        -16,
+        0
+    ],
+    "junglebush1": [
+        0,
+        0
+    ],
+    "junglebush10": [
+        0,
+        0
+    ],
+    "junglebush11": [
+        0,
+        0
+    ],
+    "junglebush12": [
+        0,
+        0
+    ],
+    "junglebush13": [
+        0,
+        0
+    ],
+    "junglebush14": [
+        0,
+        0
+    ],
+    "junglebush15": [
+        0,
+        0
+    ],
+    "junglebush16": [
+        0,
+        0
+    ],
+    "junglebush17": [
+        0,
+        0
+    ],
+    "junglebush18": [
+        0,
+        0
+    ],
+    "junglebush2": [
+        0,
+        0
+    ],
+    "junglebush3": [
+        0,
+        0
+    ],
+    "junglebush4": [
+        0,
+        0
+    ],
+    "junglebush5": [
+        0,
+        0
+    ],
+    "junglebush6": [
+        0,
+        0
+    ],
+    "junglebush7": [
+        0,
+        0
+    ],
+    "junglebush8": [
+        0,
+        0
+    ],
+    "junglebush9": [
+        0,
+        0
+    ],
+    "junglechest": [
+        -8,
+        0
+    ],
+    "shroombed": [
+        -24,
+        0
+    ],
+    "shroomchair": [
+        -8,
+        0
+    ],
+    "shroomchest": [
+        -8,
+        0
+    ],
+    "shroomdoor": [
+        -16,
+        0
+    ],
+    "shroomlamp": [
+        -8,
+        0
+    ],
+    "shroomtable": [
+        -16,
+        0
+    ],
+    "shroomwardrobe": [
+        -16,
+        0
+    ],
+    "deckchair": [
+        -8,
+        0
+    ],
+    "oasisbed": [
+        -28,
+        0
+    ],
+    "reedbed": [
+        -24,
+        0
+    ],
+    "reedchair": [
+        -8,
+        0
+    ],
+    "reedchest": [
+        -8,
+        0
+    ],
+    "reedclock": [
+        -8,
+        -8
+    ],
+    "reeddesk": [
+        -16,
+        0
+    ],
+    "reeddoor": [
+        -16,
+        0
+    ],
+    "reedlamp": [
+        -8,
+        0
+    ],
+    "reedseed1": [
+        0,
+        0
+    ],
+    "reedseed2": [
+        0,
+        0
+    ],
+    "reedseed3": [
+        0,
+        0
+    ],
+    "reedseed4": [
+        0,
+        0
+    ],
+    "reedseed5": [
+        0,
+        0
+    ],
+    "reedshelf": [
+        -16,
+        0
+    ],
+    "tallgrass1": [
+        0,
+        0
+    ],
+    "tallgrass2": [
+        0,
+        0
+    ],
+    "tallgrass3": [
+        0,
+        0
+    ],
+    "tallgrass4": [
+        0,
+        0
+    ],
+    "brokenanchor": [
+        -17,
+        0
+    ],
+    "oshroom1": [
+        0,
+        0
+    ],
+    "oshroom2": [
+        0,
+        0
+    ],
+    "oshroom3": [
+        0,
+        0
+    ],
+    "oshroom4": [
+        0,
+        0
+    ],
+    "oshroom5": [
+        0,
+        0
+    ],
+    "seashell1": [
+        0,
+        0
+    ],
+    "seashell2": [
+        0,
+        0
+    ],
+    "seashell3": [
+        0,
+        0
+    ],
+    "seashell4": [
+        0,
+        0
+    ],
+    "seashell5": [
+        0,
+        0
+    ],
+    "seashell6": [
+        0,
+        0
+    ],
+    "seashell7": [
+        0,
+        0
+    ],
+    "seashell8": [
+        0,
+        0
+    ],
+    "prismbed": [
+        -24,
+        0
+    ],
+    "prismchair": [
+        -8,
+        0
+    ],
+    "prismdoor": [
+        -16,
+        0
+    ],
+    "prismlamp1": [
+        -8,
+        0
+    ],
+    "prismlamp2": [
+        -8,
+        0
+    ],
+    "prismlamp3": [
+        -8,
+        0
+    ],
+    "prismrock1": [
+        -8,
+        0
+    ],
+    "prismrock2": [
+        -8,
+        0
+    ],
+    "prismrock3": [
+        -8,
+        0
+    ],
+    "prismrock4": [
+        -8,
+        0
+    ],
+    "prismrock5": [
+        -8,
+        0
+    ],
+    "prismrock6": [
+        -8,
+        0
+    ],
+    "prismrock7": [
+        -8,
+        0
+    ],
+    "prismrock8": [
+        -8,
+        0
+    ],
+    "prismrockhumanoid": [
+        -8,
+        0
+    ],
+    "prismrockpenguin": [
+        -8,
+        0
+    ],
+    "prismrockrunes": [
+        -8,
+        0
+    ],
+    "prismtable": [
+        -16,
+        0
+    ],
+    "rainbowwoodbed": [
+        -24,
+        0
+    ],
+    "rainbowwoodchair": [
+        -12,
+        0
+    ],
+    "rainbowwooddoor": [
+        -16,
+        0
+    ],
+    "rainbowwoodsafe": [
+        -8,
+        0
+    ],
+    "rainbowwoodtable": [
+        -16,
+        0
+    ],
+    "rustbed": [
+        -24,
+        0
+    ],
+    "rustbush1": [
+        0,
+        0
+    ],
+    "rustbush2": [
+        0,
+        0
+    ],
+    "rustbush3": [
+        0,
+        0
+    ],
+    "rustbush4": [
+        0,
+        0
+    ],
+    "rustchair": [
+        -8,
+        0
+    ],
+    "rustchest": [
+        -8,
+        0
+    ],
+    "rustdoor": [
+        -16,
+        0
+    ],
+    "rusttable": [
+        -16,
+        0
+    ],
+    "dustybed": [
+        -24,
+        0
+    ],
+    "dustychair": [
+        -8,
+        0
+    ],
+    "dustytable": [
+        -16,
+        0
+    ],
+    "bombsheltershelf1": [
+        -24,
+        0
+    ],
+    "dumpster": [
+        -24,
+        0
+    ],
+    "explosivebarrel": [
+        -8,
+        0
+    ],
+    "lasertripwire": [
+        0,
+        -32
+    ],
+    "manholedoor": [
+        -16,
+        -16
+    ],
+    "metallictrapdoor": [
+        -16,
+        0
+    ],
+    "scorchedbench": [
+        -16,
+        0
+    ],
+    "scorchedcityarrowsign": [
+        -8,
+        0
+    ],
+    "scorchedcitybed": [
+        -24,
+        0
+    ],
+    "scorchedcitybrokenbed": [
+        -24,
+        0
+    ],
+    "scorchedcitybrokenchair": [
+        -8,
+        0
+    ],
+    "scorchedcitybrokenchestdrawerlarge": [
+        -8,
+        0
+    ],
+    "scorchedcitybrokenchestdrawersmall": [
+        -8,
+        0
+    ],
+    "scorchedcitybrokencounter": [
+        -24,
+        0
+    ],
+    "scorchedcitybrokenelectricbox1": [
+        0,
+        0
+    ],
+    "scorchedcitybrokenelectricbox2": [
+        -8,
+        0
+    ],
+    "scorchedcitybrokenfridge": [
+        -8,
+        0
+    ],
+    "scorchedcitybrokenregister": [
+        -8,
+        0
+    ],
+    "scorchedcitybrokenroundsign1": [
+        -8,
+        0
+    ],
+    "scorchedcitybrokenstoreshelf": [
+        -24,
+        0
+    ],
+    "scorchedcitybrokentable": [
+        -8,
+        0
+    ],
+    "scorchedcitybrokentank": [
+        -8,
+        0
+    ],
+    "scorchedcitybrokentraficlights": [
+        -8,
+        0
+    ],
+    "scorchedcitybrokentv": [
+        -8,
+        0
+    ],
+    "scorchedcitychair": [
+        -12,
+        0
+    ],
+    "scorchedcitychest": [
+        -8,
+        0
+    ],
+    "scorchedcitychestdrawerlarge": [
+        -8,
+        0
+    ],
+    "scorchedcitychestdrawersmall": [
+        -8,
+        0
+    ],
+    "scorchedcitycounter": [
+        -16,
+        0
+    ],
+    "scorchedcitycrate": [
+        -16,
+        0
+    ],
+    "scorchedcityfridge": [
+        -8,
+        0
+    ],
+    "scorchedcityregister": [
+        -8,
+        0
+    ],
+    "scorchedcitysign1": [
+        -10,
+        0
+    ],
+    "scorchedcitysmallcrate": [
+        -8,
+        0
+    ],
+    "scorchedcitystoreshelf": [
+        -24,
+        0
+    ],
+    "scorchedcitytable": [
+        -8,
+        0
+    ],
+    "scorchedcitytv": [
+        -8,
+        0
+    ],
+    "scorchedlandmine": [
+        -8,
+        0
+    ],
+    "vrheadset": [
+        -6,
+        16
+    ],
+    "woodenutilitypole1": [
+        -24,
+        0
+    ],
+    "woodenutilitypole2": [
+        -24,
+        0
+    ],
+    "ceilingslime1": [
+        -3,
+        -11
+    ],
+    "ceilingslime2": [
+        -3,
+        -9
+    ],
+    "ceilingslime3": [
+        -3,
+        -5
+    ],
+    "slimebed": [
+        -24,
+        0
+    ],
+    "slimechair": [
+        -8,
+        0
+    ],
+    "slimehide": [
+        -8,
+        0
+    ],
+    "slimetorch": [
+        0,
+        0
+    ],
+    "blueprintblob": [
+        0,
+        0
+    ],
+    "dripslime1": [
+        0,
+        0
+    ],
+    "slimeblob1": [
+        0,
+        0
+    ],
+    "slimeblob2": [
+        0,
+        0
+    ],
+    "slimeblob3": [
+        0,
+        0
+    ],
+    "slimeblob4": [
+        0,
+        0
+    ],
+    "slimeblob5": [
+        0,
+        0
+    ],
+    "copperrock": [
+        0,
+        0
+    ],
+    "copperrocksmall": [
+        0,
+        0
+    ],
+    "diamondrock": [
+        0,
+        0
+    ],
+    "diamondrocksmall": [
+        0,
+        0
+    ],
+    "goldrock": [
+        0,
+        0
+    ],
+    "goldrocksmall": [
+        0,
+        0
+    ],
+    "platinumrock": [
+        0,
+        0
+    ],
+    "platinumrocksmall": [
+        0,
+        0
+    ],
+    "silverrock": [
+        0,
+        0
+    ],
+    "silverrocksmall": [
+        0,
+        0
+    ],
+    "beaconsnow": [
+        -8,
+        0
+    ],
+    "fancysnowman": [
+        -8,
+        0
+    ],
+    "snowdrift1": [
+        0,
+        0
+    ],
+    "snowdrift2": [
+        0,
+        0
+    ],
+    "snowdrift3": [
+        0,
+        0
+    ],
+    "snowdrift4": [
+        0,
+        0
+    ],
+    "snowman": [
+        -8,
+        0
+    ],
+    "flowerbox": [
+        -20,
+        0
+    ],
+    "flowerlamp": [
+        -8,
+        -16
+    ],
+    "movingsunflower": [
+        -18,
+        0
+    ],
+    "petalfountain": [
+        -32,
+        0
+    ],
+    "splendidplant": [
+        -8,
+        0
+    ],
+    "springbush1": [
+        0,
+        0
+    ],
+    "springbush2": [
+        0,
+        0
+    ],
+    "springbush3": [
+        0,
+        0
+    ],
+    "springbush4": [
+        0,
+        0
+    ],
+    "springbush5": [
+        0,
+        0
+    ],
+    "springbush6": [
+        0,
+        0
+    ],
+    "springchest": [
+        -8,
+        0
+    ],
+    "vibrantplant": [
+        -8,
+        0
+    ],
+    "boilervalve": [
+        -8,
+        -8
+    ],
+    "brasslamppost1": [
+        0,
+        0
+    ],
+    "floorgear1": [
+        -16,
+        0
+    ],
+    "floorpipe1": [
+        -11,
+        -8
+    ],
+    "floorpipe2": [
+        -5,
+        -8
+    ],
+    "floorpipe3": [
+        -9,
+        -8
+    ],
+    "steamboiler1": [
+        -24,
+        0
+    ],
+    "steamboiler2": [
+        -25,
+        0
+    ],
+    "steamboiler3": [
+        -24,
+        0
+    ],
+    "steamclock": [
+        -24,
+        -24
+    ],
+    "steamspringbed": [
+        -24,
+        0
+    ],
+    "steamspringchair": [
+        -16,
+        0
+    ],
+    "steamspringdoor": [
+        -16,
+        0
+    ],
+    "steamspringlamp": [
+        0,
+        0
+    ],
+    "steamspringtable": [
+        -16,
+        0
+    ],
+    "cavebed": [
+        -24,
+        0
+    ],
+    "cavechair": [
+        -8,
+        0
+    ],
+    "cavechest": [
+        -8,
+        0
+    ],
+    "cavelamp": [
+        0,
+        -10
+    ],
+    "ceilingstalactite1": [
+        -6,
+        -31
+    ],
+    "ceilingstalactite2": [
+        0,
+        -20
+    ],
+    "ceilingstalactite3": [
+        0,
+        -15
+    ],
+    "ceilingstalactite4": [
+        -6,
+        -24
+    ],
+    "ceilingstalactite5": [
+        -6,
+        -24
+    ],
+    "gasprimer": [
+        -16,
+        0
+    ],
+    "rootbush1": [
+        0,
+        0
+    ],
+    "rootbush2": [
+        0,
+        0
+    ],
+    "rootbush3": [
+        0,
+        0
+    ],
+    "rootbush4": [
+        0,
+        0
+    ],
+    "rootbush5": [
+        0,
+        0
+    ],
+    "swampbed": [
+        -24,
+        0
+    ],
+    "swampchair": [
+        -8,
+        0
+    ],
+    "swampchest": [
+        -8,
+        0
+    ],
+    "swamproot1": [
+        0,
+        0
+    ],
+    "swamproot2": [
+        0,
+        0
+    ],
+    "swamproot3": [
+        0,
+        0
+    ],
+    "swamproot4": [
+        0,
+        0
+    ],
+    "swamproot5": [
+        0,
+        0
+    ],
+    "swamptable": [
+        -16,
+        0
+    ],
+    "swampybed": [
+        -24,
+        0
+    ],
+    "tarbed": [
+        -24,
+        0
+    ],
+    "tarchair": [
+        -12,
+        0
+    ],
+    "tarconsole": [
+        -8,
+        0
+    ],
+    "tarcrystal1": [
+        0,
+        0
+    ],
+    "tarcrystal2": [
+        0,
+        0
+    ],
+    "tarcrystal3": [
+        0,
+        0
+    ],
+    "tarcrystal4": [
+        0,
+        0
+    ],
+    "tarcrystal5": [
+        0,
+        0
+    ],
+    "tardoor": [
+        -16,
+        0
+    ],
+    "tarlight": [
+        0,
+        0
+    ],
+    "tarman": [
+        -16,
+        0
+    ],
+    "tarpitchest": [
+        -8,
+        0
+    ],
+    "bosstentacle": [
+        -155,
+        -179
+    ],
+    "litorgans": [
+        0,
+        0
+    ],
+    "organictorch": [
+        1,
+        0
+    ],
+    "rightorgans": [
+        0,
+        0
+    ],
+    "bossrightspawner": [
+        0,
+        0
+    ],
+    "tentacleegg": [
+        -10,
+        0
+    ],
+    "tentaclepart1": [
+        -8,
+        0
+    ],
+    "tentaclepart2": [
+        -8,
+        0
+    ],
+    "tentaclepart3": [
+        -8,
+        0
+    ],
+    "tentaclepopbig": [
+        0,
+        0
+    ],
+    "tentaclepopmed": [
+        0,
+        0
+    ],
+    "tentaclepopsmall": [
+        0,
+        0
+    ],
+    "tentaclespawner1": [
+        -8,
+        0
+    ],
+    "tentaclespike": [
+        0,
+        0
+    ],
+    "toxicchair": [
+        -8,
+        0
+    ],
+    "toxicchest": [
+        -8,
+        0
+    ],
+    "toxiclamp1": [
+        -8,
+        0
+    ],
+    "toxiclamp2": [
+        -4,
+        -16
+    ],
+    "toxicoshroom1": [
+        0,
+        0
+    ],
+    "toxicoshroom2": [
+        0,
+        0
+    ],
+    "toxicoshroom3": [
+        0,
+        0
+    ],
+    "toxicoshroom4": [
+        0,
+        0
+    ],
+    "toxicoshroom5": [
+        0,
+        0
+    ],
+    "toxictable": [
+        -16,
+        0
+    ],
+    "smokegen": [
+        -16,
+        0
+    ],
+    "smokemachine": [
+        -12,
+        0
+    ],
+    "smokeprimer": [
+        -16,
+        0
+    ],
+    "volcanicchest": [
+        -8,
+        0
+    ],
+    "volcanictrap": [
+        -8,
+        0
+    ],
+    "zenrock1": [
+        -8,
+        0
+    ],
+    "zenrock2": [
+        -8,
+        0
+    ],
+    "zenrock3": [
+        -8,
+        0
+    ],
+    "zenrock4": [
+        -8,
+        0
+    ],
+    "zenrock5": [
+        0,
+        0
+    ],
+    "devstatuegeorge": [
+        -8,
+        0
+    ],
+    "tallchair": [
+        -8,
+        0
+    ],
+    "scanclue1": [
+        -8,
+        -8
+    ],
+    "scanclue2": [
+        -8,
+        -8
+    ],
+    "ashsprite": [
+        -1,
+        0
+    ],
+    "aurorabee": [
+        -1,
+        0
+    ],
+    "blueback": [
+        -1,
+        0
+    ],
+    "brightstripe": [
+        -1,
+        0
+    ],
+    "butterbee": [
+        -1,
+        0
+    ],
+    "cinderfly": [
+        -1,
+        0
+    ],
+    "dewhopper": [
+        -1,
+        0
+    ],
+    "driftbell": [
+        -1,
+        0
+    ],
+    "dustmoth": [
+        -1,
+        0
+    ],
+    "fawnfly": [
+        -1,
+        0
+    ],
+    "fireygiant": [
+        -1,
+        0
+    ],
+    "flameroach": [
+        -1,
+        0
+    ],
+    "frostfleck": [
+        -1,
+        0
+    ],
+    "frostfly": [
+        -1,
+        0
+    ],
+    "gasgiant": [
+        -1,
+        0
+    ],
+    "glowbug": [
+        -1,
+        0
+    ],
+    "goldbuck": [
+        -1,
+        0
+    ],
+    "greentip": [
+        -1,
+        0
+    ],
+    "heathugger": [
+        -1,
+        0
+    ],
+    "hivehog": [
+        -1,
+        0
+    ],
+    "icetip": [
+        -1,
+        0
+    ],
+    "lavahopper": [
+        -1,
+        0
+    ],
+    "muddancer": [
+        -1,
+        0
+    ],
+    "mudstag": [
+        -1,
+        0
+    ],
+    "orphanfly": [
+        -1,
+        0
+    ],
+    "phoenixfly": [
+        -1,
+        0
+    ],
+    "polarmoth": [
+        -1,
+        0
+    ],
+    "redwing": [
+        -1,
+        0
+    ],
+    "sandclown": [
+        -1,
+        0
+    ],
+    "scuttleploom": [
+        -1,
+        0
+    ],
+    "seahornet": [
+        -1,
+        0
+    ],
+    "shadowmoth": [
+        -1,
+        0
+    ],
+    "shardwing": [
+        -1,
+        0
+    ],
+    "shellcreep": [
+        -1,
+        0
+    ],
+    "snowskater": [
+        -1,
+        0
+    ],
+    "stinkjack": [
+        -1,
+        0
+    ],
+    "sunskipper": [
+        -1,
+        0
+    ],
+    "thornbee": [
+        -1,
+        0
+    ],
+    "tidefly": [
+        -1,
+        0
+    ],
+    "vineclimber": [
+        -1,
+        0
+    ],
+    "wavebird": [
+        -1,
+        0
+    ],
+    "xenofly": [
+        -1,
+        0
+    ],
+    "bigapedoll": [
+        -8,
+        0
+    ],
+    "bigapetargetmap": [
+        -16,
+        -16
+    ],
+    "minidronerack": [
+        -16,
+        0
+    ],
+    "miniknogintel1": [
+        -16,
+        -16
+    ],
+    "miniknognewspaper": [
+        -16,
+        -16
+    ],
+    "kluexmap1": [
+        -16,
+        -16
+    ],
+    "kluexmural1": [
+        -24,
+        -16
+    ],
+    "kluexmural2": [
+        -16,
+        -16
+    ],
+    "kluexstatue1": [
+        -24,
+        0
+    ],
+    "kluexstatue2": [
+        -16,
+        0
+    ],
+    "championspeardisplay": [
+        -16,
+        0
+    ],
+    "floranhunterpainting": [
+        -8,
+        -16
+    ],
+    "floranspinneret": [
+        -16,
+        0
+    ],
+    "floranwebbing": [
+        -8,
+        0
+    ],
+    "ixolingpike": [
+        -8,
+        0
+    ],
+    "glitchbaronfigure": [
+        -5,
+        0
+    ],
+    "glitchchess": [
+        -8,
+        0
+    ],
+    "glitchdecree": [
+        -16,
+        -24
+    ],
+    "glitchhorndisplay": [
+        -16,
+        -24
+    ],
+    "glitchscribe": [
+        -32,
+        0
+    ],
+    "hylotllibraryposter1": [
+        -16,
+        -8
+    ],
+    "hylotlmusicbox": [
+        -8,
+        0
+    ],
+    "librarycodex": [
+        -8,
+        0
+    ],
+    "librarymodel": [
+        -16,
+        0
+    ],
+    "pagodaaquarium": [
+        -16,
+        0
+    ],
+    "3dprinter": [
+        -8,
+        0
+    ],
+    "campfire": [
+        0,
+        0
+    ],
+    "capturestation": [
+        -16,
+        0
+    ],
+    "fossilstation": [
+        -16,
+        0
+    ],
+    "ironanvil": [
+        -8,
+        0
+    ],
+    "ironcraftingtable": [
+        -16,
+        0
+    ],
+    "mechcraftingtable": [
+        -32,
+        0
+    ],
+    "pethealingstation": [
+        -6,
+        0
+    ],
+    "pixelcompressor": [
+        -24,
+        0
+    ],
+    "railcraftingtable": [
+        -16,
+        0
+    ],
+    "refinery": [
+        0,
+        0
+    ],
+    "craftinganvil": [
+        -24,
+        0
+    ],
+    "acceleratoraddon": [
+        -8,
+        0
+    ],
+    "manipulatoraddon": [
+        -8,
+        0
+    ],
+    "separatoraddon": [
+        -8,
+        0
+    ],
+    "craftingfarm": [
+        -16,
+        0
+    ],
+    "craftingfurnace": [
+        -8,
+        0
+    ],
+    "craftingfurniture": [
+        -16,
+        0
+    ],
+    "craftingmedical": [
+        -16,
+        0
+    ],
+    "craftingwheel": [
+        -16,
+        0
+    ],
+    "inventorstable": [
+        -16,
+        0
+    ],
+    "wiringstation": [
+        -16,
+        0
+    ],
+    "woodencookingtable": [
+        -16,
+        0
+    ],
+    "cultistairlockbossdoor": [
+        -8,
+        0
+    ],
+    "cultistairlockdoor": [
+        -8,
+        0
+    ],
+    "cultistairlockhatch": [
+        -24,
+        -8
+    ],
+    "cultistaltar": [
+        -12,
+        0
+    ],
+    "cultistbannerlarge": [
+        -16,
+        -40
+    ],
+    "cultistchestlarge": [
+        -16,
+        0
+    ],
+    "cultistdoor": [
+        -20,
+        0
+    ],
+    "automatoseed": [
+        0,
+        0
+    ],
+    "wildautomatoseed": [
+        0,
+        0
+    ],
+    "avesmingoseed": [
+        0,
+        0
+    ],
+    "wildavesmingoseed": [
+        0,
+        0
+    ],
+    "bananaseed": [
+        0,
+        0
+    ],
+    "wildbananaseed": [
+        0,
+        0
+    ],
+    "beakseedseed": [
+        0,
+        0
+    ],
+    "wildbeakseedseed": [
+        0,
+        0
+    ],
+    "boltbulbseed": [
+        0,
+        0
+    ],
+    "wildboltbulbseed": [
+        0,
+        0
+    ],
+    "bonebooseed": [
+        0,
+        0
+    ],
+    "wildbonebooseed": [
+        0,
+        0
+    ],
+    "carrotseed": [
+        0,
+        0
+    ],
+    "wildcarrotseed": [
+        0,
+        0
+    ],
+    "chiliseed": [
+        0,
+        0
+    ],
+    "wildchiliseed": [
+        0,
+        0
+    ],
+    "cocoaseed": [
+        0,
+        0
+    ],
+    "wildcocoaseed": [
+        0,
+        0
+    ],
+    "coffeeseed": [
+        0,
+        0
+    ],
+    "wildcoffeeseed": [
+        0,
+        0
+    ],
+    "coralcreepseed": [
+        0,
+        0
+    ],
+    "wildcoralcreepseed": [
+        0,
+        0
+    ],
+    "cornseed": [
+        0,
+        0
+    ],
+    "wildcornseed": [
+        0,
+        0
+    ],
+    "cottonseed": [
+        0,
+        0
+    ],
+    "wildcottonseed": [
+        0,
+        0
+    ],
+    "crystalplantseed": [
+        0,
+        0
+    ],
+    "wildcrystalplantseed": [
+        0,
+        0
+    ],
+    "currentcornseed": [
+        0,
+        0
+    ],
+    "wildcurrentcornseed": [
+        0,
+        0
+    ],
+    "diodiaseed": [
+        0,
+        0
+    ],
+    "wilddiodiaseed": [
+        0,
+        0
+    ],
+    "dirturchinseed": [
+        0,
+        0
+    ],
+    "wilddirturchinseed": [
+        0,
+        0
+    ],
+    "electricfluffaloegg": [
+        -7,
+        -3
+    ],
+    "firefluffaloegg": [
+        -7,
+        -3
+    ],
+    "fluffaloegg": [
+        -7,
+        -3
+    ],
+    "icefluffaloegg": [
+        -7,
+        -3
+    ],
+    "poisonfluffaloegg": [
+        -7,
+        -3
+    ],
+    "henegg": [
+        -7,
+        -3
+    ],
+    "mooshiegg": [
+        -7,
+        -3
+    ],
+    "robothenegg": [
+        -7,
+        -3
+    ],
+    "eggshootseed": [
+        0,
+        0
+    ],
+    "wildeggshootseed": [
+        0,
+        0
+    ],
+    "feathercrownseed": [
+        0,
+        0
+    ],
+    "wildfeathercrownseed": [
+        0,
+        0
+    ],
+    "flowerblue": [
+        0,
+        0
+    ],
+    "flowerred": [
+        0,
+        0
+    ],
+    "flowerspring": [
+        0,
+        0
+    ],
+    "floweryellow": [
+        0,
+        0
+    ],
+    "grapesseed": [
+        0,
+        0
+    ],
+    "wildgrapesseed": [
+        0,
+        0
+    ],
+    "kiwiseed": [
+        0,
+        0
+    ],
+    "wildkiwiseed": [
+        0,
+        0
+    ],
+    "mothtrap": [
+        -8,
+        0
+    ],
+    "mushroomseed": [
+        0,
+        0
+    ],
+    "neonmelonseed": [
+        0,
+        0
+    ],
+    "wildneonmelonseed": [
+        0,
+        0
+    ],
+    "oculemonseed": [
+        0,
+        0
+    ],
+    "wildoculemonseed": [
+        0,
+        0
+    ],
+    "pearlpeaseed": [
+        0,
+        0
+    ],
+    "wildpearlpeaseed": [
+        0,
+        0
+    ],
+    "pineappleseed": [
+        0,
+        0
+    ],
+    "wildpineappleseed": [
+        0,
+        0
+    ],
+    "potatoseed": [
+        0,
+        0
+    ],
+    "wildpotatoseed": [
+        0,
+        0
+    ],
+    "pussplumseed": [
+        0,
+        0
+    ],
+    "wildpussplumseed": [
+        0,
+        0
+    ],
+    "reefpodseed": [
+        0,
+        0
+    ],
+    "wildreefpodseed": [
+        0,
+        0
+    ],
+    "riceseed": [
+        0,
+        0
+    ],
+    "wildriceseed": [
+        0,
+        0
+    ],
+    "sugarcaneseed": [
+        0,
+        0
+    ],
+    "wildsugarcaneseed": [
+        0,
+        0
+    ],
+    "thornplant": [
+        -18,
+        0
+    ],
+    "tomatoseed": [
+        0,
+        0
+    ],
+    "wildtomatoseed": [
+        0,
+        0
+    ],
+    "toxictopseed": [
+        0,
+        0
+    ],
+    "wildtoxictopseed": [
+        0,
+        0
+    ],
+    "wartweedseed": [
+        0,
+        0
+    ],
+    "wildwartweedseed": [
+        0,
+        0
+    ],
+    "wheatseed": [
+        0,
+        0
+    ],
+    "wildwheatseed": [
+        0,
+        0
+    ],
+    "agaranmushroom": [
+        -8,
+        0
+    ],
+    "bamboodoor": [
+        -16,
+        0
+    ],
+    "chestfloran1": [
+        -8,
+        0
+    ],
+    "chestfloran2": [
+        -8,
+        0
+    ],
+    "chestplant1": [
+        -8,
+        0
+    ],
+    "floranarmchair": [
+        -16,
+        0
+    ],
+    "floranbed": [
+        -24,
+        0
+    ],
+    "floranbench": [
+        -16,
+        0
+    ],
+    "floranbonedisplay1": [
+        -33,
+        0
+    ],
+    "floranbonedisplay2": [
+        -8,
+        0
+    ],
+    "floranbonerack": [
+        -8,
+        0
+    ],
+    "floranbonestool": [
+        -6,
+        0
+    ],
+    "floranbonetable1": [
+        -16,
+        0
+    ],
+    "floranbonetable2": [
+        -8,
+        0
+    ],
+    "floranbookcase": [
+        -16,
+        0
+    ],
+    "florancabinet1": [
+        -16,
+        0
+    ],
+    "florancabinet2": [
+        -16,
+        0
+    ],
+    "florancabinet3": [
+        -32,
+        0
+    ],
+    "floranceilingbones1": [
+        -20,
+        -13
+    ],
+    "floranceilingbones2": [
+        -24,
+        -4
+    ],
+    "floranchair": [
+        -8,
+        0
+    ],
+    "floranchandelier": [
+        -16,
+        -16
+    ],
+    "florancorner": [
+        0,
+        0
+    ],
+    "florancouch": [
+        -24,
+        0
+    ],
+    "florancrate": [
+        -8,
+        0
+    ],
+    "florancurtain": [
+        -16,
+        -8
+    ],
+    "florandesk": [
+        -16,
+        0
+    ],
+    "florandoor": [
+        -16,
+        0
+    ],
+    "florandrum1": [
+        -6,
+        0
+    ],
+    "florandrum2": [
+        -8,
+        0
+    ],
+    "florandrum3": [
+        -6,
+        0
+    ],
+    "florandrum4": [
+        0,
+        0
+    ],
+    "giantfloranpod": [
+        -30,
+        0
+    ],
+    "floranlamp1": [
+        -16,
+        0
+    ],
+    "floranlight": [
+        -8,
+        0
+    ],
+    "floranopenpod1": [
+        -8,
+        0
+    ],
+    "floranopenpod2": [
+        -8,
+        0
+    ],
+    "floranpainting1": [
+        -8,
+        -16
+    ],
+    "floranpainting2": [
+        -16,
+        -8
+    ],
+    "floranpainting3": [
+        -8,
+        -8
+    ],
+    "floranpainting4": [
+        -8,
+        -8
+    ],
+    "floranpainting5": [
+        -8,
+        -8
+    ],
+    "floranpelt1": [
+        -32,
+        -24
+    ],
+    "floranpelt2": [
+        -8,
+        -16
+    ],
+    "floranpelt3": [
+        -8,
+        -16
+    ],
+    "floranpelt4": [
+        -32,
+        -24
+    ],
+    "floranpelt5": [
+        -8,
+        -16
+    ],
+    "floranpod1": [
+        -16,
+        0
+    ],
+    "floranpod2": [
+        -16,
+        0
+    ],
+    "floranpod3": [
+        -17,
+        0
+    ],
+    "floranpodapex": [
+        -12,
+        0
+    ],
+    "floranscreen1": [
+        -24,
+        0
+    ],
+    "floranscreen2": [
+        -24,
+        0
+    ],
+    "floranshelf": [
+        -16,
+        0
+    ],
+    "floransmalltable": [
+        -8,
+        0
+    ],
+    "floranstoragelocker": [
+        -16,
+        -8
+    ],
+    "floranstove": [
+        -8,
+        0
+    ],
+    "florantable1": [
+        -16,
+        0
+    ],
+    "florantable2": [
+        -16,
+        0
+    ],
+    "florantanningrack": [
+        -16,
+        0
+    ],
+    "florantoilet": [
+        -5,
+        0
+    ],
+    "huntingbench": [
+        -16,
+        0
+    ],
+    "huntingbigstatue": [
+        -24,
+        0
+    ],
+    "huntingdisplay1": [
+        -28,
+        0
+    ],
+    "huntingdisplay2": [
+        -28,
+        0
+    ],
+    "huntingdoor1": [
+        -16,
+        0
+    ],
+    "huntinggroundtorch": [
+        -8,
+        0
+    ],
+    "huntinglight1": [
+        -8,
+        0
+    ],
+    "huntinglight2": [
+        0,
+        0
+    ],
+    "huntinglight3": [
+        -2,
+        0
+    ],
+    "huntingpike1": [
+        -8,
+        0
+    ],
+    "huntingpike2": [
+        -8,
+        0
+    ],
+    "huntingpike3": [
+        0,
+        0
+    ],
+    "huntingplatform1": [
+        -32,
+        0
+    ],
+    "huntingplatform2": [
+        -32,
+        0
+    ],
+    "huntingplatformleaves": [
+        -28,
+        0
+    ],
+    "huntingplatformrocks": [
+        -24,
+        0
+    ],
+    "huntingpressureplate": [
+        -8,
+        0
+    ],
+    "huntingpunjisticks1": [
+        -16,
+        0
+    ],
+    "huntingpunjisticks2": [
+        -8,
+        0
+    ],
+    "huntingrail1": [
+        -8,
+        0
+    ],
+    "huntingrail2": [
+        -8,
+        0
+    ],
+    "huntingstatue": [
+        -16,
+        0
+    ],
+    "huntingtrophy1": [
+        -9,
+        -9
+    ],
+    "huntingtrophy2": [
+        -8,
+        -8
+    ],
+    "huntingtrophy3": [
+        -12,
+        -8
+    ],
+    "huntingweaponrack1": [
+        -16,
+        0
+    ],
+    "huntingweaponrack2": [
+        -16,
+        0
+    ],
+    "plantbed1": [
+        -24,
+        0
+    ],
+    "plantbed2": [
+        -24,
+        0
+    ],
+    "plantbed3": [
+        -24,
+        0
+    ],
+    "plantbed4": [
+        -24,
+        0
+    ],
+    "plantbiolight": [
+        0,
+        0
+    ],
+    "plantbrokencage": [
+        -17,
+        0
+    ],
+    "plantcabinet1": [
+        -8,
+        0
+    ],
+    "plantcabinet2": [
+        -16,
+        0
+    ],
+    "plantcage1": [
+        -16,
+        0
+    ],
+    "plantcage2": [
+        -16,
+        0
+    ],
+    "plantcage3": [
+        -17,
+        -24
+    ],
+    "plantchair": [
+        -8,
+        0
+    ],
+    "plantdesklamp": [
+        -3,
+        0
+    ],
+    "plantdoor1": [
+        -16,
+        0
+    ],
+    "plantdoor2": [
+        -16,
+        -32
+    ],
+    "plantdrysapdispenser": [
+        -8,
+        -8
+    ],
+    "plantgeyser1": [
+        -16,
+        0
+    ],
+    "plantgeyser2": [
+        -8,
+        0
+    ],
+    "plantlog": [
+        -16,
+        0
+    ],
+    "plantorb": [
+        -16,
+        0
+    ],
+    "plantpanel": [
+        -8,
+        0
+    ],
+    "plantplatform1": [
+        -40,
+        0
+    ],
+    "plantplatform2": [
+        -40,
+        0
+    ],
+    "plantrack": [
+        -8,
+        0
+    ],
+    "plantshelf": [
+        -16,
+        0
+    ],
+    "planttorch": [
+        0,
+        0
+    ],
+    "planttorturedevice": [
+        -8,
+        0
+    ],
+    "planturn1": [
+        -8,
+        0
+    ],
+    "planturn2": [
+        0,
+        0
+    ],
+    "planturn3": [
+        0,
+        0
+    ],
+    "plantvinetable": [
+        -24,
+        0
+    ],
+    "plantvolcano1": [
+        -8,
+        0
+    ],
+    "plantvolcano2": [
+        -16,
+        0
+    ],
+    "plantvolcano3": [
+        -16,
+        0
+    ],
+    "plantvolcano4": [
+        -16,
+        0
+    ],
+    "plantvolcano5": [
+        -8,
+        0
+    ],
+    "dirtyfossil1": [
+        0,
+        0
+    ],
+    "dirtyfossil2": [
+        0,
+        0
+    ],
+    "dirtyfossil3": [
+        0,
+        0
+    ],
+    "dirtyfossil4": [
+        0,
+        0
+    ],
+    "dirtyfossil5": [
+        0,
+        0
+    ],
+    "dirtyfossil6": [
+        0,
+        0
+    ],
+    "dirtyfossil7": [
+        0,
+        0
+    ],
+    "dirtyfossil8": [
+        0,
+        0
+    ],
+    "fossildisplay1": [
+        4,
+        20
+    ],
+    "fossildisplay3": [
+        4,
+        24
+    ],
+    "fossildisplay5": [
+        0,
+        12
+    ],
+    "humangenerator": [
+        -80,
+        0
+    ],
+    "altar1": [
+        -24,
+        0
+    ],
+    "arcadegameclosed": [
+        -8,
+        0
+    ],
+    "arcadegame": [
+        -8,
+        0
+    ],
+    "arcademachine": [
+        -8,
+        0
+    ],
+    "bardoor": [
+        -16,
+        0
+    ],
+    "barvent": [
+        -8,
+        0
+    ],
+    "biohazardsign": [
+        -8,
+        -8
+    ],
+    "birdsnest": [
+        0,
+        0
+    ],
+    "bluelight": [
+        -8,
+        0
+    ],
+    "box1": [
+        -8,
+        0
+    ],
+    "box2": [
+        -8,
+        0
+    ],
+    "burningcoals": [
+        -8,
+        0
+    ],
+    "butterflybush": [
+        -8,
+        0
+    ],
+    "cactiflowerpot": [
+        0,
+        0
+    ],
+    "capsulebig": [
+        0,
+        0
+    ],
+    "capsulemed": [
+        0,
+        0
+    ],
+    "capsulesmall": [
+        0,
+        0
+    ],
+    "capsulespace": [
+        -8,
+        0
+    ],
+    "carbed": [
+        -16,
+        0
+    ],
+    "cardboard1": [
+        -8,
+        0
+    ],
+    "cardboard2": [
+        -8,
+        0
+    ],
+    "cardboard3": [
+        -8,
+        0
+    ],
+    "largecooler1": [
+        -16,
+        -8
+    ],
+    "claypot1": [
+        -8,
+        0
+    ],
+    "claypot2": [
+        -8,
+        0
+    ],
+    "claypot3": [
+        -8,
+        0
+    ],
+    "copperbox1": [
+        -8,
+        0
+    ],
+    "copperceilinglight": [
+        -4,
+        -24
+    ],
+    "copperlantern": [
+        0,
+        0
+    ],
+    "coppershelf": [
+        -16,
+        0
+    ],
+    "coppersupport": [
+        0,
+        0
+    ],
+    "cropshipper": [
+        -32,
+        0
+    ],
+    "darkcomputer": [
+        -16,
+        0
+    ],
+    "datastation": [
+        -16,
+        0
+    ],
+    "durasteelelevatorlong": [
+        -16,
+        0
+    ],
+    "durasteelelevatorshort": [
+        -16,
+        0
+    ],
+    "eggchair": [
+        -8,
+        0
+    ],
+    "electricdoor": [
+        0,
+        0
+    ],
+    "electriclight": [
+        0,
+        0
+    ],
+    "fairylights": [
+        -8,
+        0
+    ],
+    "fireflowerpot": [
+        0,
+        0
+    ],
+    "fireflybush": [
+        -8,
+        0
+    ],
+    "flagapex": [
+        -17,
+        0
+    ],
+    "flagavian": [
+        -17,
+        0
+    ],
+    "flagfloran": [
+        -17,
+        0
+    ],
+    "flagglitch": [
+        -17,
+        0
+    ],
+    "flaghuman": [
+        -17,
+        0
+    ],
+    "flaghylotl": [
+        -17,
+        0
+    ],
+    "flagnovakid": [
+        -17,
+        0
+    ],
+    "floodlights": [
+        -12,
+        0
+    ],
+    "flickeringfluorescentlight": [
+        -8,
+        4
+    ],
+    "fluorescentlight": [
+        -8,
+        4
+    ],
+    "fossilpod": [
+        0,
+        0
+    ],
+    "fountain1": [
+        -32,
+        0
+    ],
+    "fountain2": [
+        -32,
+        0
+    ],
+    "frogmerchant": [
+        -20,
+        0
+    ],
+    "frogstatue": [
+        -24,
+        0
+    ],
+    "futurelight": [
+        0,
+        0
+    ],
+    "gunchest": [
+        -8,
+        0
+    ],
+    "hazardmicroscope": [
+        -8,
+        -8
+    ],
+    "helpme": [
+        -15,
+        -16
+    ],
+    "invisiblelight": [
+        0,
+        0
+    ],
+    "invisiblesparker": [
+        0,
+        0
+    ],
+    "ironbed": [
+        -24,
+        0
+    ],
+    "irondoor": [
+        -16,
+        0
+    ],
+    "ironlight": [
+        0,
+        0
+    ],
+    "ironswitch": [
+        -8,
+        0
+    ],
+    "irontable": [
+        -16,
+        0
+    ],
+    "irontoilet": [
+        -8,
+        0
+    ],
+    "kennel": [
+        -22,
+        0
+    ],
+    "lightbulb": [
+        2,
+        -8
+    ],
+    "lightbulb2": [
+        2,
+        -8
+    ],
+    "locker1": [
+        0,
+        0
+    ],
+    "locker2": [
+        -8,
+        0
+    ],
+    "loudspeaker": [
+        -8,
+        -8
+    ],
+    "mannequin": [
+        -21,
+        0
+    ],
+    "markergroundplaque": [
+        -16,
+        0
+    ],
+    "markerwallplaque1": [
+        -8,
+        -8
+    ],
+    "markerwallplaque2": [
+        -8,
+        -8
+    ],
+    "markerwallplaque3": [
+        -8,
+        -8
+    ],
+    "mechanicalelevatorlong": [
+        -16,
+        0
+    ],
+    "mechanicalelevatorshort": [
+        -16,
+        0
+    ],
+    "mechassemblystation": [
+        -24,
+        0
+    ],
+    "mechbeacon": [
+        -16,
+        -16
+    ],
+    "metalbarrel1": [
+        -8,
+        0
+    ],
+    "metalbarrel2": [
+        -8,
+        0
+    ],
+    "metalbarrel2b": [
+        -15,
+        0
+    ],
+    "basicmetalchair": [
+        -7,
+        0
+    ],
+    "minifridge": [
+        -8,
+        0
+    ],
+    "miningsupplies": [
+        -16,
+        0
+    ],
+    "modernchair": [
+        -6,
+        0
+    ],
+    "moderntable": [
+        -8,
+        0
+    ],
+    "nanostove": [
+        -8,
+        0
+    ],
+    "oillantern1": [
+        0,
+        0
+    ],
+    "oillanterntall": [
+        0,
+        0
+    ],
+    "perfectlygenericitem": [
+        -5,
+        0
+    ],
+    "pethouse": [
+        -8,
+        0
+    ],
+    "pillar1": [
+        -8,
+        0
+    ],
+    "pillar2": [
+        -8,
+        0
+    ],
+    "bowlingpin": [
+        -4,
+        0
+    ],
+    "pleaseget": [
+        -15,
+        -16
+    ],
+    "podchest": [
+        -8,
+        0
+    ],
+    "poop": [
+        0,
+        0
+    ],
+    "portcullis": [
+        -16,
+        -32
+    ],
+    "randomfountain": [
+        -8,
+        0
+    ],
+    "recreationalvehicle": [
+        -40,
+        0
+    ],
+    "redalert": [
+        0,
+        -8
+    ],
+    "rusticoven": [
+        -8,
+        0
+    ],
+    "sapling": [
+        0,
+        0
+    ],
+    "scarecrow": [
+        -16,
+        0
+    ],
+    "screenplanet": [
+        -8,
+        0
+    ],
+    "seismograph": [
+        -16,
+        -16
+    ],
+    "shiplight": [
+        0,
+        0
+    ],
+    "shootingtarget": [
+        -8,
+        0
+    ],
+    "sleepingbag": [
+        -24,
+        0
+    ],
+    "sleepingbaggreen": [
+        -24,
+        0
+    ],
+    "sleepingbagred": [
+        -24,
+        0
+    ],
+    "slidingdoor": [
+        -16,
+        0
+    ],
+    "smashcrystal": [
+        0,
+        0
+    ],
+    "sprinkler": [
+        -8,
+        0
+    ],
+    "statuspod": [
+        -8,
+        0
+    ],
+    "stepladder": [
+        -10,
+        0
+    ],
+    "ironchest": [
+        -8,
+        0
+    ],
+    "symbiotesample": [
+        -6,
+        0
+    ],
+    "teacup1": [
+        0,
+        0
+    ],
+    "teapot1": [
+        -8,
+        0
+    ],
+    "techchest": [
+        -8,
+        0
+    ],
+    "techchest2": [
+        -8,
+        0
+    ],
+    "tent1": [
+        -24,
+        0
+    ],
+    "tent1blue": [
+        -24,
+        0
+    ],
+    "tent1red": [
+        -24,
+        0
+    ],
+    "tent2": [
+        -24,
+        0
+    ],
+    "tent2yellow": [
+        -24,
+        0
+    ],
+    "torch": [
+        1,
+        0
+    ],
+    "toxicgasprimer": [
+        -16,
+        0
+    ],
+    "travellersbeacon": [
+        -16,
+        -16
+    ],
+    "trophybronze": [
+        -8,
+        0
+    ],
+    "trophygold": [
+        -8,
+        0
+    ],
+    "trophysilver": [
+        -8,
+        0
+    ],
+    "tungstenchair": [
+        -8,
+        0
+    ],
+    "tvstation": [
+        -16,
+        0
+    ],
+    "vent": [
+        -8,
+        0
+    ],
+    "volcanopod": [
+        -12,
+        0
+    ],
+    "wargroovebanner1": [
+        -8,
+        0
+    ],
+    "wargroovebanner2": [
+        -8,
+        0
+    ],
+    "wargroovebanner3": [
+        -8,
+        0
+    ],
+    "wargroovebanner4": [
+        -8,
+        0
+    ],
+    "weaponchest": [
+        -8,
+        0
+    ],
+    "wflowerpot": [
+        0,
+        0
+    ],
+    "windchime": [
+        -8,
+        -16
+    ],
+    "woodchair": [
+        -8,
+        0
+    ],
+    "wooddoor": [
+        -16,
+        0
+    ],
+    "woodenarmchair1": [
+        -8,
+        0
+    ],
+    "woodenarmchair2": [
+        -10,
+        0
+    ],
+    "woodenbed": [
+        -24,
+        0
+    ],
+    "woodenbed2": [
+        -24,
+        0
+    ],
+    "woodenbookcase": [
+        -16,
+        0
+    ],
+    "woodencabinet1": [
+        -16,
+        0
+    ],
+    "woodencabinet2": [
+        -16,
+        0
+    ],
+    "woodencabinet3": [
+        -16,
+        0
+    ],
+    "woodenceilingbookcase1": [
+        -16,
+        -8
+    ],
+    "woodenceilingcabinet1": [
+        -16,
+        -8
+    ],
+    "woodenceilingcabinet2": [
+        -16,
+        -8
+    ],
+    "woodenchair": [
+        -8,
+        0
+    ],
+    "woodenchest": [
+        -8,
+        0
+    ],
+    "woodencouch1": [
+        -16,
+        0
+    ],
+    "woodencouch2": [
+        -16,
+        0
+    ],
+    "woodencrate1": [
+        -8,
+        0
+    ],
+    "woodencrate2": [
+        -16,
+        0
+    ],
+    "woodendesk": [
+        -16,
+        0
+    ],
+    "woodendoor": [
+        -16,
+        0
+    ],
+    "woodenelevatorlong": [
+        -16,
+        0
+    ],
+    "woodenelevatorshort": [
+        -16,
+        0
+    ],
+    "woodenendtable": [
+        -8,
+        0
+    ],
+    "woodengate": [
+        -16,
+        0
+    ],
+    "woodenlamp1": [
+        -1,
+        0
+    ],
+    "woodenlamp2": [
+        -2,
+        0
+    ],
+    "woodenlamp3": [
+        -2,
+        0
+    ],
+    "woodensink": [
+        -16,
+        0
+    ],
+    "woodenstand1": [
+        0,
+        0
+    ],
+    "woodenstand2": [
+        -8,
+        0
+    ],
+    "woodentalllantern": [
+        1,
+        0
+    ],
+    "woodstool": [
+        0,
+        0
+    ],
+    "woodsupport": [
+        0,
+        0
+    ],
+    "woodtable": [
+        -16,
+        0
+    ],
+    "woodtoilet": [
+        -8,
+        0
+    ],
+    "woodenverticaldoor": [
+        -16,
+        0
+    ],
+    "wormstatue": [
+        -16,
+        0
+    ],
+    "anvil": [
+        -8,
+        0
+    ],
+    "ballandchain": [
+        -8,
+        0
+    ],
+    "bannermedievallarge": [
+        -8,
+        -32
+    ],
+    "bannermedievalsmall": [
+        -8,
+        -16
+    ],
+    "barrel": [
+        -8,
+        0
+    ],
+    "barrellarge": [
+        -8,
+        0
+    ],
+    "battlestandard": [
+        -8,
+        0
+    ],
+    "burlapsack": [
+        -16,
+        0
+    ],
+    "castledoor": [
+        -16,
+        0
+    ],
+    "castledungeondoor": [
+        -16,
+        0
+    ],
+    "castlehiddendoor": [
+        -16,
+        0
+    ],
+    "castlehiddentrapdoor": [
+        -16,
+        -8
+    ],
+    "castleswitch": [
+        -8,
+        0
+    ],
+    "chessbishop": [
+        -8,
+        0
+    ],
+    "chessbishopblack": [
+        -8,
+        0
+    ],
+    "chessking": [
+        -8,
+        0
+    ],
+    "chesskingblack": [
+        -8,
+        0
+    ],
+    "chessknight": [
+        -8,
+        0
+    ],
+    "chessknightblack": [
+        -8,
+        0
+    ],
+    "chesspawn": [
+        -8,
+        0
+    ],
+    "chesspawnblack": [
+        -8,
+        0
+    ],
+    "chessqueen": [
+        -8,
+        0
+    ],
+    "chessqueenblack": [
+        -8,
+        0
+    ],
+    "chessrook": [
+        -8,
+        0
+    ],
+    "chessrookblack": [
+        -8,
+        0
+    ],
+    "crossroadssign": [
+        -8,
+        0
+    ],
+    "darkbannermedievallarge": [
+        -8,
+        -32
+    ],
+    "darkbannermedievalsmall": [
+        -8,
+        -16
+    ],
+    "darkbattlestandard": [
+        -8,
+        0
+    ],
+    "farmtools": [
+        -16,
+        0
+    ],
+    "fireplacetools": [
+        -8,
+        0
+    ],
+    "garagetools": [
+        -16,
+        -8
+    ],
+    "glitchstoragelocker": [
+        -16,
+        -8
+    ],
+    "guillotine": [
+        -26,
+        0
+    ],
+    "haypile": [
+        -16,
+        0
+    ],
+    "hayroll": [
+        -8,
+        0
+    ],
+    "haystack": [
+        -8,
+        0
+    ],
+    "hourglass": [
+        -8,
+        0
+    ],
+    "juicekeg": [
+        -8,
+        0
+    ],
+    "kitchentools": [
+        -16,
+        -12
+    ],
+    "largebell": [
+        -16,
+        -40
+    ],
+    "largecastledoor": [
+        -24,
+        0
+    ],
+    "largewoodencrate": [
+        -16,
+        0
+    ],
+    "medievalarmor": [
+        -8,
+        0
+    ],
+    "medievalarmorarmed": [
+        -16,
+        0
+    ],
+    "medievalarmorswitch": [
+        -16,
+        0
+    ],
+    "medievalaxedisplay": [
+        -16,
+        -16
+    ],
+    "medievalbed": [
+        -24,
+        0
+    ],
+    "medievalbookcase": [
+        -8,
+        0
+    ],
+    "medievalbookcaseswitch": [
+        -8,
+        0
+    ],
+    "medievalbowl": [
+        -8,
+        0
+    ],
+    "medievalbucket": [
+        -8,
+        0
+    ],
+    "medievalcabinet": [
+        -8,
+        0
+    ],
+    "medievalcandle": [
+        0,
+        0
+    ],
+    "medievalcellbed": [
+        -24,
+        0
+    ],
+    "medievalchair": [
+        -8,
+        0
+    ],
+    "medievalchandelier": [
+        -16,
+        -16
+    ],
+    "medievalchest": [
+        -8,
+        0
+    ],
+    "medievalclock": [
+        -8,
+        -8
+    ],
+    "medievalcodex": [
+        -8,
+        0
+    ],
+    "medievalcounter": [
+        -16,
+        0
+    ],
+    "medievalcup": [
+        0,
+        0
+    ],
+    "medievaldesk": [
+        -24,
+        0
+    ],
+    "medievaldiningtable": [
+        -32,
+        0
+    ],
+    "medievaldresser": [
+        -16,
+        0
+    ],
+    "medievalfireplace": [
+        -16,
+        0
+    ],
+    "medievalflagpole": [
+        -12,
+        0
+    ],
+    "medievalfurnace": [
+        -24,
+        0
+    ],
+    "medievalglobe": [
+        -8,
+        0
+    ],
+    "medievallamp": [
+        0,
+        0
+    ],
+    "medievallargecookingpot": [
+        -8,
+        0
+    ],
+    "medievalmap": [
+        -16,
+        -16
+    ],
+    "medievalpedestal": [
+        -8,
+        0
+    ],
+    "medievalplate": [
+        -8,
+        0
+    ],
+    "medievalpressureplate": [
+        -8,
+        0
+    ],
+    "medievalregister": [
+        -8,
+        0
+    ],
+    "medievalscaffolding": [
+        -24,
+        0
+    ],
+    "medievalshelf": [
+        -24,
+        0
+    ],
+    "medievalspikes": [
+        -8,
+        0
+    ],
+    "medievalstock": [
+        -16,
+        0
+    ],
+    "medievalstreetlamp": [
+        -24,
+        0
+    ],
+    "medievalswitchhidden": [
+        0,
+        0
+    ],
+    "medievalswitchlever": [
+        -8,
+        0
+    ],
+    "medievalswitchshackle": [
+        -8,
+        -24
+    ],
+    "medievalsworddisplay": [
+        -8,
+        -8
+    ],
+    "medievaltable": [
+        -24,
+        0
+    ],
+    "medievaltoilet": [
+        -8,
+        0
+    ],
+    "medievaltorch": [
+        0,
+        0
+    ],
+    "medievalwallshelf": [
+        -32,
+        0
+    ],
+    "medievalweaponrack": [
+        -16,
+        0
+    ],
+    "outhouse": [
+        -16,
+        0
+    ],
+    "poisonsign": [
+        -8,
+        -8
+    ],
+    "royalbed": [
+        -24,
+        0
+    ],
+    "royalbookcase": [
+        -8,
+        0
+    ],
+    "royalcabinet": [
+        -8,
+        0
+    ],
+    "royalcandles": [
+        -8,
+        0
+    ],
+    "royalchalice": [
+        0,
+        0
+    ],
+    "royalchest": [
+        -8,
+        0
+    ],
+    "royaldesk": [
+        -24,
+        0
+    ],
+    "royalthrone": [
+        -8,
+        0
+    ],
+    "royaltoilet": [
+        -8,
+        0
+    ],
+    "sewagebarrel": [
+        -8,
+        0
+    ],
+    "sewerflooddoor": [
+        -17,
+        0
+    ],
+    "sewergauge": [
+        -8,
+        -8
+    ],
+    "sewergear": [
+        -4,
+        -4
+    ],
+    "sewertank": [
+        -16,
+        0
+    ],
+    "sewervalve": [
+        -8,
+        -8
+    ],
+    "sewerwallgrate": [
+        -24,
+        -8
+    ],
+    "signarmorshop": [
+        -8,
+        -8
+    ],
+    "signforge": [
+        -8,
+        -8
+    ],
+    "signinn": [
+        -8,
+        -8
+    ],
+    "signlibrary": [
+        -8,
+        -8
+    ],
+    "signproduce": [
+        -8,
+        -8
+    ],
+    "signweaponshop": [
+        -8,
+        -8
+    ],
+    "smallwoodencrate": [
+        -8,
+        0
+    ],
+    "target": [
+        -8,
+        0
+    ],
+    "targetdummy": [
+        -16,
+        0
+    ],
+    "toxicwastebarrel": [
+        -8,
+        0
+    ],
+    "trashbag": [
+        -8,
+        0
+    ],
+    "trashcan": [
+        -8,
+        0
+    ],
+    "trough": [
+        -16,
+        0
+    ],
+    "villagedoor": [
+        -16,
+        0
+    ],
+    "wallpipe": [
+        -12,
+        -14
+    ],
+    "wallshackles": [
+        -8,
+        -16
+    ],
+    "wallshield": [
+        -8,
+        -8
+    ],
+    "wellcover": [
+        -32,
+        0
+    ],
+    "wheelbarrow": [
+        -32,
+        0
+    ],
+    "wickerbasket1": [
+        0,
+        0
+    ],
+    "wickerbasket2": [
+        -8,
+        0
+    ],
+    "wickerbasket3": [
+        0,
+        0
+    ],
+    "wickerbasket4": [
+        -8,
+        0
+    ],
+    "wickerbasket5": [
+        -8,
+        0
+    ],
+    "woodenstool": [
+        -8,
+        0
+    ],
+    "barrelgoldfilled": [
+        -8,
+        0
+    ],
+    "diamonddisplay": [
+        -8,
+        0
+    ],
+    "goldenpedestal": [
+        -8,
+        0
+    ],
+    "goldvase1": [
+        -8,
+        0
+    ],
+    "goldvase2": [
+        -7,
+        0
+    ],
+    "goldvase3": [
+        0,
+        0
+    ],
+    "goldvase4": [
+        0,
+        0
+    ],
+    "goldvase5": [
+        -6,
+        0
+    ],
+    "grail": [
+        -8,
+        0
+    ],
+    "mysteriouslight": [
+        0,
+        0
+    ],
+    "treasurechest": [
+        -8,
+        0
+    ],
+    "woodencrategoldfilled": [
+        -8,
+        0
+    ],
+    "bigpresent": [
+        -12,
+        0
+    ],
+    "decoratedtree": [
+        -16,
+        0
+    ],
+    "dreidel": [
+        0,
+        0
+    ],
+    "giantbells": [
+        -24,
+        -16
+    ],
+    "giantbow1": [
+        -16,
+        -16
+    ],
+    "giantbow2": [
+        -16,
+        -16
+    ],
+    "giantsanta": [
+        -15,
+        0
+    ],
+    "giantsnowflake": [
+        -28,
+        -28
+    ],
+    "giftmonsterbox": [
+        -13,
+        -16
+    ],
+    "giftmonstersmallbox": [
+        -6.5,
+        -8
+    ],
+    "goldball": [
+        -16,
+        0
+    ],
+    "greencandycane1": [
+        -9,
+        0
+    ],
+    "greencandycane2": [
+        -12,
+        0
+    ],
+    "greencandycane3": [
+        -5,
+        0
+    ],
+    "greengumdrop1": [
+        -8,
+        0
+    ],
+    "greengumdrop2": [
+        -8,
+        0
+    ],
+    "heartforge": [
+        -16,
+        0
+    ],
+    "holidaycandles": [
+        -8,
+        0
+    ],
+    "holidaycraftingtable": [
+        -16,
+        0
+    ],
+    "holidaylights": [
+        -8,
+        0
+    ],
+    "holidaypole": [
+        -12,
+        0
+    ],
+    "holly": [
+        -16,
+        -16
+    ],
+    "lollipop1": [
+        -18,
+        0
+    ],
+    "lollipop2": [
+        -8,
+        0
+    ],
+    "menorah": [
+        -6,
+        0
+    ],
+    "present1": [
+        -8,
+        0
+    ],
+    "present2": [
+        -8,
+        0
+    ],
+    "present3": [
+        -8,
+        0
+    ],
+    "present4": [
+        -8,
+        0
+    ],
+    "purplegumdrop1": [
+        -8,
+        0
+    ],
+    "purplegumdrop2": [
+        -8,
+        0
+    ],
+    "redball": [
+        -16,
+        0
+    ],
+    "redcandycane1": [
+        -9,
+        0
+    ],
+    "redcandycane2": [
+        -12,
+        0
+    ],
+    "redcandycane3": [
+        -5,
+        0
+    ],
+    "redgumdrop1": [
+        -8,
+        0
+    ],
+    "redgumdrop2": [
+        -16,
+        0
+    ],
+    "scifisleigh": [
+        -64,
+        0
+    ],
+    "smallbow": [
+        -9,
+        -8
+    ],
+    "smallholidaytree": [
+        -8,
+        0
+    ],
+    "smallsnowflake": [
+        -16,
+        -16
+    ],
+    "stocking1": [
+        -6,
+        -8
+    ],
+    "stocking2": [
+        -7,
+        -9
+    ],
+    "undecoratedtree": [
+        -16,
+        0
+    ],
+    "wazlights": [
+        -20,
+        -8
+    ],
+    "alertlight": [
+        1,
+        0
+    ],
+    "barbedwire": [
+        -8,
+        0
+    ],
+    "basicbath": [
+        -16,
+        0
+    ],
+    "basicbathdripping": [
+        -16,
+        0
+    ],
+    "basictoilet": [
+        -8,
+        0
+    ],
+    "basictv": [
+        -6,
+        0
+    ],
+    "bunkerbigpanel": [
+        -40,
+        -16
+    ],
+    "bunkerbookcase": [
+        -16,
+        0
+    ],
+    "bunkercabinet1": [
+        -16,
+        0
+    ],
+    "bunkerceilinglight1": [
+        -8,
+        -32
+    ],
+    "bunkerceilinglight2": [
+        -4,
+        -24
+    ],
+    "bunkercomputer": [
+        -16,
+        0
+    ],
+    "bunkerconsole1": [
+        -16,
+        0
+    ],
+    "bunkerconsole2": [
+        -16,
+        0
+    ],
+    "bunkerconsole3": [
+        -10,
+        0
+    ],
+    "bunkerconsole4": [
+        -16,
+        0
+    ],
+    "bunkercorner": [
+        0,
+        0
+    ],
+    "bunkercrate": [
+        -8,
+        0
+    ],
+    "bunkerdesk": [
+        -8,
+        0
+    ],
+    "bunkerdisplay1": [
+        -16,
+        0
+    ],
+    "bunkerdisplay2": [
+        -32,
+        0
+    ],
+    "bunkerdisplay3": [
+        -16,
+        0
+    ],
+    "bunkerdisplay4": [
+        -32,
+        0
+    ],
+    "bunkereyescanner": [
+        -8,
+        -8
+    ],
+    "bunkerhandscanner": [
+        -8,
+        -8
+    ],
+    "bunkerheater1": [
+        -16,
+        0
+    ],
+    "bunkerlighth": [
+        -16,
+        0
+    ],
+    "bunkerlightv": [
+        0,
+        -16
+    ],
+    "bunkermotiondetector": [
+        -8,
+        -8
+    ],
+    "bunkerpanel1": [
+        -16,
+        -16
+    ],
+    "bunkerpanel2": [
+        -16,
+        -16
+    ],
+    "bunkerpanel3": [
+        -16,
+        -16
+    ],
+    "bunkerposter1": [
+        -8,
+        -16
+    ],
+    "bunkerposter2": [
+        -16,
+        -16
+    ],
+    "bunkerserver": [
+        -16,
+        0
+    ],
+    "bunkerslidingdoor": [
+        0,
+        0
+    ],
+    "bunkertable1": [
+        -16,
+        0
+    ],
+    "bunkertable2": [
+        -16,
+        0
+    ],
+    "bunkertable3": [
+        -16,
+        0
+    ],
+    "bunkertv": [
+        -8,
+        -8
+    ],
+    "bunkertv2": [
+        -24,
+        -10
+    ],
+    "bunkervent": [
+        -8,
+        -8
+    ],
+    "bunkerwires": [
+        -8,
+        0
+    ],
+    "chalktally": [
+        -16,
+        -8
+    ],
+    "curtain1": [
+        -4,
+        -16
+    ],
+    "dangersignh": [
+        -16,
+        0
+    ],
+    "dangersignv": [
+        0,
+        -16
+    ],
+    "fridge": [
+        -8,
+        0
+    ],
+    "glasspanel": [
+        -8,
+        0
+    ],
+    "hazardtapeh": [
+        0,
+        0
+    ],
+    "hazardtapev": [
+        0,
+        0
+    ],
+    "humanstoragelocker": [
+        -16,
+        -8
+    ],
+    "jukebox": [
+        -12,
+        0
+    ],
+    "lavalamp1": [
+        0,
+        0
+    ],
+    "marinesign": [
+        -32,
+        -8
+    ],
+    "microwave": [
+        -8,
+        0
+    ],
+    "oven1": [
+        -8,
+        0
+    ],
+    "prisonarch": [
+        -24,
+        -16
+    ],
+    "prisonbarrelfire": [
+        -8,
+        0
+    ],
+    "prisonbars": [
+        -8,
+        0
+    ],
+    "prisonbed": [
+        -24,
+        0
+    ],
+    "prisonbench": [
+        -16,
+        0
+    ],
+    "prisoncabinet1": [
+        -16,
+        0
+    ],
+    "prisoncamerastation": [
+        -24,
+        0
+    ],
+    "prisoncontrolpanel": [
+        -24,
+        0
+    ],
+    "prisoncorner": [
+        -8,
+        -8
+    ],
+    "prisondoor": [
+        -16,
+        0
+    ],
+    "prisonexitsign": [
+        -8,
+        -2
+    ],
+    "prisonfence1": [
+        -16,
+        0
+    ],
+    "prisonfence2": [
+        -16,
+        0
+    ],
+    "prisonfile1": [
+        -8,
+        0
+    ],
+    "prisonfile2": [
+        -16,
+        0
+    ],
+    "prisonfloodlight": [
+        -4,
+        -8
+    ],
+    "prisonfloodlightBroken": [
+        -4,
+        -8
+    ],
+    "prisonforcecell": [
+        -8,
+        0
+    ],
+    "prisongirderh": [
+        -16,
+        0
+    ],
+    "prisongirderv": [
+        -8,
+        -16
+    ],
+    "prisongraffiti1": [
+        -36,
+        -16
+    ],
+    "prisongraffiti2": [
+        -48,
+        -16
+    ],
+    "prisongraffiti3": [
+        -24,
+        -8
+    ],
+    "prisongraffiti4": [
+        -8,
+        -8
+    ],
+    "prisongraffiti5": [
+        -32,
+        -8
+    ],
+    "prisongraffiti6": [
+        -16,
+        0
+    ],
+    "prisongraffiti7": [
+        -52,
+        -8
+    ],
+    "prisongrateh": [
+        -16,
+        0
+    ],
+    "prisongratev": [
+        0,
+        -16
+    ],
+    "prisonlocker1": [
+        -16,
+        0
+    ],
+    "prisonlocker2": [
+        -8,
+        0
+    ],
+    "prisonmattress": [
+        -24,
+        0
+    ],
+    "prisonmirror1": [
+        -24,
+        -16
+    ],
+    "prisonmirror2": [
+        -8,
+        -8
+    ],
+    "prisonpanel": [
+        -16,
+        0
+    ],
+    "prisonpaper1": [
+        -8,
+        -8
+    ],
+    "prisonpaper2": [
+        -8,
+        -8
+    ],
+    "prisonpaper3": [
+        -8,
+        -8
+    ],
+    "prisonpipefence": [
+        -8,
+        0
+    ],
+    "prisonradiator": [
+        -8,
+        0
+    ],
+    "prisonsecuritycamera": [
+        -4,
+        -8
+    ],
+    "prisonshower": [
+        0,
+        0
+    ],
+    "prisonshowerdripping": [
+        0,
+        0
+    ],
+    "prisonsign1": [
+        -16,
+        -8
+    ],
+    "prisonsign2": [
+        -16,
+        -8
+    ],
+    "prisonstonesign": [
+        -24,
+        0
+    ],
+    "prisontable": [
+        -24,
+        0
+    ],
+    "prisontoilet": [
+        -6,
+        0
+    ],
+    "prisontorturebed1": [
+        -16,
+        0
+    ],
+    "prisontorturebed2": [
+        -24,
+        0
+    ],
+    "prisonturbine": [
+        -8,
+        -8
+    ],
+    "vendingmachine": [
+        -8,
+        0
+    ],
+    "watermachine": [
+        -8,
+        0
+    ],
+    "airlockdoor": [
+        -8,
+        0
+    ],
+    "airlockhatch": [
+        -24,
+        -8
+    ],
+    "arcadeblue": [
+        -8,
+        0
+    ],
+    "arcadedance": [
+        -24,
+        0
+    ],
+    "arcadegreen": [
+        -8,
+        0
+    ],
+    "arcadeorange": [
+        -8,
+        0
+    ],
+    "arcadepurple": [
+        -16,
+        0
+    ],
+    "arcadered": [
+        -8,
+        0
+    ],
+    "arcadesign": [
+        -32,
+        -8
+    ],
+    "arcadestarbound": [
+        -16,
+        0
+    ],
+    "arcadeyellow": [
+        -16,
+        0
+    ],
+    "badgooplush": [
+        -8,
+        0
+    ],
+    "barstool": [
+        -8,
+        0
+    ],
+    "bearplush": [
+        -8,
+        0
+    ],
+    "beautifulattempt": [
+        -12,
+        0
+    ],
+    "classicbanner1": [
+        0,
+        0
+    ],
+    "classicbanner2": [
+        0,
+        0
+    ],
+    "classicbanner2b": [
+        0,
+        0
+    ],
+    "classicbanner3": [
+        0,
+        0
+    ],
+    "classicbannertattered": [
+        0,
+        0
+    ],
+    "clubceilinglights": [
+        -8,
+        0
+    ],
+    "clubceilinglightsgreen": [
+        -8,
+        0
+    ],
+    "clubceilinglightsred": [
+        -8,
+        0
+    ],
+    "clubceilinglightsyellow": [
+        -8,
+        0
+    ],
+    "clubdecks": [
+        -16,
+        0
+    ],
+    "clublampsmall": [
+        0,
+        0
+    ],
+    "clubspeaker": [
+        -8,
+        0
+    ],
+    "combinationprop": [
+        0,
+        0
+    ],
+    "displaylight": [
+        -8,
+        0
+    ],
+    "displaylightbroken": [
+        -8,
+        0
+    ],
+    "eventlight": [
+        -8,
+        0
+    ],
+    "floodlightsmall": [
+        0,
+        0
+    ],
+    "floodlightsmallflickering": [
+        0,
+        0
+    ],
+    "football": [
+        0,
+        0
+    ],
+    "giantglobe": [
+        -32,
+        0
+    ],
+    "greenredlight": [
+        0,
+        0
+    ],
+    "hockeytable": [
+        -16,
+        0
+    ],
+    "hylotlbed2": [
+        -24,
+        0
+    ],
+    "hylotlbowl": [
+        0,
+        0
+    ],
+    "hylotlbutton": [
+        0,
+        0
+    ],
+    "hylotlcalligraphy1": [
+        -8,
+        -10
+    ],
+    "hylotlcalligraphy2": [
+        -8,
+        -10
+    ],
+    "hylotlcalligraphy3": [
+        -8,
+        -10
+    ],
+    "hylotlcalligraphy4": [
+        -8,
+        -10
+    ],
+    "hylotlcalligraphy5": [
+        -8,
+        -10
+    ],
+    "hylotlcashregister": [
+        -8,
+        0
+    ],
+    "hylotlchair": [
+        -8,
+        0
+    ],
+    "hylotlcityposter": [
+        -16,
+        -8
+    ],
+    "hylotlclassicbookcase": [
+        -16,
+        0
+    ],
+    "hylotlclassiccabinet1": [
+        -11,
+        0
+    ],
+    "hylotlclassicchair": [
+        -8,
+        0
+    ],
+    "hylotlclassicdesk": [
+        -24,
+        0
+    ],
+    "hylotlclassicgong": [
+        -24,
+        0
+    ],
+    "hylotlclassicpainting1": [
+        -8,
+        -16
+    ],
+    "hylotlclassictable": [
+        -16,
+        0
+    ],
+    "hylotlclassictable2": [
+        -16,
+        0
+    ],
+    "hylotlclassicwardrobe1": [
+        -16,
+        0
+    ],
+    "hylotlconsole": [
+        -8,
+        0
+    ],
+    "hylotlcounter": [
+        -32,
+        0
+    ],
+    "hylotldrinks": [
+        -16,
+        0
+    ],
+    "hylotlemblem": [
+        -16,
+        0
+    ],
+    "hylotlfashionhologram": [
+        -12,
+        0
+    ],
+    "hylotlfloorornament": [
+        -8,
+        0
+    ],
+    "hylotlkatanarack": [
+        -21,
+        0
+    ],
+    "hylotllamp": [
+        0,
+        0
+    ],
+    "hylotllantern1": [
+        -8,
+        -8
+    ],
+    "hylotllilyclock": [
+        -8,
+        -8
+    ],
+    "hylotllilydeco1": [
+        -8,
+        -8
+    ],
+    "hylotllilydeco2": [
+        -12,
+        -16
+    ],
+    "hylotllilydeco3": [
+        -16,
+        -16
+    ],
+    "hylotllilypad": [
+        -24,
+        -24
+    ],
+    "hylotlliquidsensor": [
+        0,
+        0
+    ],
+    "hylotlmailbox": [
+        -8,
+        0
+    ],
+    "hylotlmovieposter1": [
+        -8,
+        -8
+    ],
+    "hylotlmovieposter2": [
+        -8,
+        -16
+    ],
+    "hylotlmovieposter3": [
+        -8,
+        -16
+    ],
+    "hylotlpainting1": [
+        -20,
+        -8
+    ],
+    "hylotlpainting2": [
+        -16,
+        -8
+    ],
+    "hylotlpainting3": [
+        -20,
+        -8
+    ],
+    "hylotlplant1": [
+        -8,
+        0
+    ],
+    "hylotlpost": [
+        -8,
+        0
+    ],
+    "hylotlprizecounter": [
+        -32,
+        0
+    ],
+    "hylotlredalert": [
+        0,
+        0
+    ],
+    "hylotlshojidoor": [
+        -16,
+        0
+    ],
+    "hylotlshojiscreen": [
+        -24,
+        0
+    ],
+    "hylotlshopsign": [
+        -16,
+        0
+    ],
+    "hylotlshorttable": [
+        -16,
+        0
+    ],
+    "hylotlsign1b": [
+        -24,
+        -24
+    ],
+    "hylotlsign1g": [
+        -24,
+        -24
+    ],
+    "hylotlsign1o": [
+        -24,
+        -24
+    ],
+    "hylotlsign2b": [
+        -40,
+        -8
+    ],
+    "hylotlsign2g": [
+        -40,
+        -8
+    ],
+    "hylotlsign2o": [
+        -40,
+        -8
+    ],
+    "hylotlsign3b": [
+        -24,
+        -16
+    ],
+    "hylotlsign3g": [
+        -24,
+        -16
+    ],
+    "hylotlsign3o": [
+        -24,
+        -16
+    ],
+    "hylotlradio": [
+        -8,
+        0
+    ],
+    "hylotlstoragelocker": [
+        -16,
+        -8
+    ],
+    "hylotlstoreshelf": [
+        -16,
+        0
+    ],
+    "hylotlstyleposter": [
+        -8,
+        -8
+    ],
+    "hylotlsupportbeam": [
+        0,
+        0
+    ],
+    "hylotlswitch": [
+        0,
+        0
+    ],
+    "hylotlsymbolb": [
+        -24,
+        -24
+    ],
+    "hylotlsymbolg": [
+        -24,
+        -24
+    ],
+    "hylotltable": [
+        -24,
+        0
+    ],
+    "hylotltrashcan": [
+        -8,
+        0
+    ],
+    "hylotluniformstand": [
+        -8,
+        0
+    ],
+    "hylotlwallshelf": [
+        -16,
+        0
+    ],
+    "hylotlwarningposter": [
+        -8,
+        -8
+    ],
+    "hylotlwaterfeature1": [
+        -16,
+        0
+    ],
+    "index": [
+        -16,
+        0
+    ],
+    "letheiasign": [
+        -32,
+        -8
+    ],
+    "librarybookcaseG2": [
+        -24,
+        0
+    ],
+    "librarybookcaseHUGE": [
+        -24,
+        0
+    ],
+    "librarybookcaseL2": [
+        -24,
+        0
+    ],
+    "librarybookcaseN2": [
+        -24,
+        0
+    ],
+    "librarybookcaseN2empty": [
+        -24,
+        0
+    ],
+    "librarybookcaseS1": [
+        -24,
+        0
+    ],
+    "librarybookcaseS1empty": [
+        -24,
+        0
+    ],
+    "mindwurmplush": [
+        -8,
+        0
+    ],
+    "molemanposter": [
+        -8,
+        -16
+    ],
+    "neonhylotlhead": [
+        -10,
+        -12
+    ],
+    "numiplush": [
+        -8,
+        0
+    ],
+    "numiposter": [
+        -16,
+        -8
+    ],
+    "numisign": [
+        -16,
+        -16
+    ],
+    "opensign": [
+        -16,
+        -8
+    ],
+    "ornatetorch": [
+        -8,
+        0
+    ],
+    "plainorbplush": [
+        -8,
+        0
+    ],
+    "poptopplush": [
+        -8,
+        0
+    ],
+    "porthole": [
+        -16,
+        -16
+    ],
+    "pressuredoor": [
+        -17,
+        0
+    ],
+    "pumpsign": [
+        -16,
+        0
+    ],
+    "quillandink": [
+        -7,
+        0
+    ],
+    "salesign": [
+        0,
+        -24
+    ],
+    "shippingcontainer": [
+        -56,
+        0
+    ],
+    "shopline": [
+        -8,
+        0
+    ],
+    "smashabledrink1": [
+        0,
+        0
+    ],
+    "smashabledrink2": [
+        0,
+        0
+    ],
+    "smashabledrink3": [
+        0,
+        0
+    ],
+    "smashabledrink4": [
+        0,
+        0
+    ],
+    "smashabledrink5": [
+        0,
+        0
+    ],
+    "softdrinksign": [
+        -16,
+        -16
+    ],
+    "studylamp": [
+        -8,
+        0
+    ],
+    "tenstudiesplaque": [
+        -20,
+        0
+    ],
+    "turtleplush": [
+        -8,
+        0
+    ],
+    "underwaterlight": [
+        -8,
+        -8
+    ],
+    "underwaterlightsmall": [
+        0,
+        0
+    ],
+    "underwaterlightsmallbroken": [
+        0,
+        0
+    ],
+    "unicornplush": [
+        -8,
+        0
+    ],
+    "microformeralpine": [
+        -16,
+        0
+    ],
+    "microformerbioluminescence": [
+        -16,
+        0
+    ],
+    "microformerbones": [
+        -16,
+        0
+    ],
+    "microformereyepatch": [
+        -16,
+        0
+    ],
+    "microformerflesh": [
+        -16,
+        0
+    ],
+    "microformergeode": [
+        -16,
+        0
+    ],
+    "microformergiantflowers": [
+        -16,
+        0
+    ],
+    "microformerhive": [
+        -16,
+        0
+    ],
+    "microformerluminouscaves": [
+        -16,
+        0
+    ],
+    "microformermushrooms": [
+        -16,
+        0
+    ],
+    "microformerrust": [
+        -16,
+        0
+    ],
+    "microformerslimecaves": [
+        -16,
+        0
+    ],
+    "microformersteamspring": [
+        -16,
+        0
+    ],
+    "microformertar": [
+        -16,
+        0
+    ],
+    "microformerwilderness": [
+        -16,
+        0
+    ],
+    "antenna": [
+        -12,
+        0
+    ],
+    "apexfightlantern": [
+        0,
+        0
+    ],
+    "apexartifactaltar": [
+        -16,
+        0
+    ],
+    "bigapescreen": [
+        -32,
+        0
+    ],
+    "fistlauncher": [
+        -16,
+        0
+    ],
+    "miniknogoldsign": [
+        -16,
+        -16
+    ],
+    "avianartifactaltar": [
+        -16,
+        0
+    ],
+    "bonespike": [
+        0,
+        0
+    ],
+    "bossdoor": [
+        -8,
+        0
+    ],
+    "bossweb": [
+        -280,
+        -160
+    ],
+    "brokentank": [
+        -24,
+        0
+    ],
+    "bushprop1": [
+        -8,
+        0
+    ],
+    "bushprop2": [
+        -8,
+        0
+    ],
+    "bushprop3": [
+        -8,
+        0
+    ],
+    "caveart1": [
+        -16,
+        -8
+    ],
+    "caveart2": [
+        -16,
+        -8
+    ],
+    "caveart3": [
+        -40,
+        -8
+    ],
+    "caveart4": [
+        -16,
+        -16
+    ],
+    "caveart5": [
+        -16,
+        -16
+    ],
+    "checkpoint": [
+        -16,
+        0
+    ],
+    "deathwarning": [
+        -8,
+        0
+    ],
+    "deathwarningmodern": [
+        -8,
+        0
+    ],
+    "dirttrapdoor": [
+        -40,
+        -8
+    ],
+    "drip1": [
+        0,
+        0
+    ],
+    "drip2": [
+        0,
+        0
+    ],
+    "escaperadar": [
+        -26,
+        0
+    ],
+    "fallingrocks": [
+        -8,
+        0
+    ],
+    "fallingrocksmodern": [
+        -8,
+        0
+    ],
+    "huntingchampionstatue": [
+        -40,
+        0
+    ],
+    "floranartifactaltar": [
+        -16,
+        0
+    ],
+    "glitchalarm": [
+        -24,
+        0
+    ],
+    "glitchartifactaltar": [
+        -16,
+        0
+    ],
+    "nowayout": [
+        -16,
+        -8
+    ],
+    "thewayisblocked": [
+        -24,
+        -8
+    ],
+    "turnback": [
+        -16,
+        -8
+    ],
+    "hangingguardian": [
+        -32,
+        -40
+    ],
+    "hologramprojector": [
+        -16,
+        0
+    ],
+    "hylotlartifactaltar": [
+        -16,
+        0
+    ],
+    "librarybookcaseG2damage": [
+        -24,
+        -184
+    ],
+    "librarybookcaseHUGEdamage": [
+        -32,
+        -240
+    ],
+    "librarybookcaseL2damage": [
+        -30,
+        -120
+    ],
+    "librarybookcaseN2damage": [
+        -24,
+        -72
+    ],
+    "librarybookcase": [
+        -24,
+        -16
+    ],
+    "laboratorylight": [
+        -16,
+        0
+    ],
+    "laboratoryverticaldoor": [
+        -16,
+        -8
+    ],
+    "lunarbasebunk": [
+        -24,
+        0
+    ],
+    "lunarbasechair": [
+        -8,
+        0
+    ],
+    "lunarbaseconsole": [
+        -8,
+        0
+    ],
+    "lunarbasecrate": [
+        -16,
+        0
+    ],
+    "lunarbasedoor": [
+        -16,
+        0
+    ],
+    "lunarbaselantern": [
+        0,
+        0
+    ],
+    "lunarbaselaser": [
+        -8,
+        0
+    ],
+    "lunarbaselocker": [
+        -16,
+        0
+    ],
+    "drillmachine": [
+        -88,
+        0
+    ],
+    "drillconsole": [
+        -28,
+        0
+    ],
+    "mechplatform": [
+        -24,
+        0
+    ],
+    "miningbelt": [
+        -16,
+        0
+    ],
+    "miningchest": [
+        -8,
+        0
+    ],
+    "miningcrusher": [
+        -24,
+        0
+    ],
+    "miningdoor": [
+        -20,
+        0
+    ],
+    "miningfence": [
+        -16,
+        0
+    ],
+    "mininghazardsign": [
+        -16,
+        -8
+    ],
+    "miningpowersign": [
+        -16,
+        0
+    ],
+    "miningskip": [
+        -24,
+        0
+    ],
+    "miningverticaldoor": [
+        -16,
+        -6
+    ],
+    "penguinbasedoor": [
+        -16,
+        -6
+    ],
+    "penguinposter1": [
+        -16,
+        -16
+    ],
+    "proximitywallsensor": [
+        -8,
+        0
+    ],
+    "redlight": [
+        -8,
+        0
+    ],
+    "redlightBroken": [
+        -8,
+        0
+    ],
+    "root1": [
+        0,
+        0
+    ],
+    "root10": [
+        0,
+        -8
+    ],
+    "root2": [
+        0,
+        0
+    ],
+    "root3": [
+        0,
+        0
+    ],
+    "root4": [
+        0,
+        0
+    ],
+    "root5": [
+        0,
+        0
+    ],
+    "root6": [
+        0,
+        -8
+    ],
+    "root7": [
+        0,
+        -8
+    ],
+    "root8": [
+        0,
+        -8
+    ],
+    "root9": [
+        0,
+        -8
+    ],
+    "secretsign1": [
+        -8,
+        -8
+    ],
+    "secretsign2": [
+        -8,
+        -8
+    ],
+    "secretsign3": [
+        -8,
+        -8
+    ],
+    "skulltorch": [
+        -8,
+        0
+    ],
+    "skullwalltorch": [
+        -7,
+        0
+    ],
+    "statuslight": [
+        -8,
+        -8
+    ],
+    "strangeweb1": [
+        -20,
+        0
+    ],
+    "strangeweb2": [
+        -20,
+        -32
+    ],
+    "strangeweb3": [
+        -8,
+        0
+    ],
+    "strangeweb4": [
+        -104,
+        -88
+    ],
+    "strangeweb5": [
+        -20,
+        -32
+    ],
+    "strangeweb6": [
+        -20,
+        -60
+    ],
+    "tanktrap": [
+        -14,
+        0
+    ],
+    "templepressureplatform": [
+        -16,
+        -8
+    ],
+    "trapchest": [
+        -8,
+        0
+    ],
+    "treeprop1": [
+        -8,
+        0
+    ],
+    "treeprop2": [
+        -8,
+        0
+    ],
+    "treeprop3": [
+        -8,
+        0
+    ],
+    "UFOprop": [
+        -24,
+        0
+    ],
+    "neonhologram": [
+        -32,
+        0
+    ],
+    "neonlamppost": [
+        -15,
+        0
+    ],
+    "neonlight": [
+        -8,
+        0
+    ],
+    "neonpeacekeeperemblem": [
+        -16,
+        -16
+    ],
+    "neonstore": [
+        -24,
+        -24
+    ],
+    "neontriangle": [
+        -8,
+        0
+    ],
+    "frontierbed": [
+        -24,
+        0
+    ],
+    "frontierchair": [
+        -16,
+        0
+    ],
+    "frontierclock": [
+        -8,
+        0
+    ],
+    "frontiercoffin": [
+        -8,
+        0
+    ],
+    "frontierdoor": [
+        -16,
+        0
+    ],
+    "frontierfurnace": [
+        -17,
+        0
+    ],
+    "frontiergramophone": [
+        -8,
+        0
+    ],
+    "frontierhatrack": [
+        -8,
+        0
+    ],
+    "frontierironsymbol": [
+        -4,
+        -8
+    ],
+    "frontierlamp": [
+        -4,
+        -16
+    ],
+    "frontierlamppost": [
+        -4,
+        0
+    ],
+    "frontierpainting1": [
+        -24,
+        -8
+    ],
+    "frontierpainting2": [
+        -16,
+        -8
+    ],
+    "frontierpainting3": [
+        -16,
+        -8
+    ],
+    "frontiervault": [
+        -24,
+        0
+    ],
+    "frontierwaterpump": [
+        -8,
+        0
+    ],
+    "frontierwindmill": [
+        -16,
+        0
+    ],
+    "novakidstoragelocker": [
+        -16,
+        -8
+    ],
+    "picturestand": [
+        -17,
+        0
+    ],
+    "safe": [
+        -8,
+        0
+    ],
+    "saloonbar": [
+        -40,
+        0
+    ],
+    "salooncabinet": [
+        -16,
+        0
+    ],
+    "saloondoor": [
+        -16,
+        -14
+    ],
+    "saloonlight": [
+        0,
+        0
+    ],
+    "saloonpiano": [
+        -20,
+        0
+    ],
+    "saloonseat": [
+        -8,
+        0
+    ],
+    "saloonsign": [
+        -22,
+        -8
+    ],
+    "saloonspittoon": [
+        -8,
+        0
+    ],
+    "saloontable": [
+        -16,
+        0
+    ],
+    "saloontumbler": [
+        0,
+        0
+    ],
+    "wagonwheel": [
+        -12,
+        -12
+    ],
+    "wantedposter": [
+        -8,
+        -8
+    ],
+    "ceilingspike1": [
+        0,
+        -8
+    ],
+    "ceilingspike2": [
+        0,
+        -8
+    ],
+    "ceilingspike3": [
+        0,
+        -8
+    ],
+    "ceilingspike4": [
+        0,
+        -8
+    ],
+    "groundspike1": [
+        -8,
+        0
+    ],
+    "groundspike2": [
+        -8,
+        0
+    ],
+    "groundspike3": [
+        -8,
+        0
+    ],
+    "groundspike4": [
+        -8,
+        0
+    ],
+    "thorns1": [
+        -8,
+        0
+    ],
+    "thorns2": [
+        -8,
+        0
+    ],
+    "thorns3": [
+        -8,
+        0
+    ],
+    "thorns4": [
+        -8,
+        0
+    ],
+    "desertceilingspike1": [
+        0,
+        -8
+    ],
+    "desertceilingspike2": [
+        0,
+        -8
+    ],
+    "desertceilingspike3": [
+        0,
+        -8
+    ],
+    "desertceilingspike4": [
+        0,
+        -8
+    ],
+    "desertgroundspike1": [
+        -8,
+        0
+    ],
+    "desertgroundspike2": [
+        -8,
+        0
+    ],
+    "desertgroundspike3": [
+        -8,
+        0
+    ],
+    "desertgroundspike4": [
+        -8,
+        0
+    ],
+    "greenceilingspike1": [
+        0,
+        -8
+    ],
+    "greenceilingspike2": [
+        0,
+        -8
+    ],
+    "greenceilingspike3": [
+        0,
+        -8
+    ],
+    "greenceilingspike4": [
+        0,
+        -8
+    ],
+    "greengroundspike1": [
+        -8,
+        0
+    ],
+    "greengroundspike2": [
+        -8,
+        0
+    ],
+    "greengroundspike3": [
+        -8,
+        0
+    ],
+    "greengroundspike4": [
+        -8,
+        0
+    ],
+    "icespike": [
+        0,
+        0
+    ],
+    "icestalactite1": [
+        0,
+        -8
+    ],
+    "icestalactite2": [
+        0,
+        -8
+    ],
+    "icestalactite3": [
+        0,
+        -8
+    ],
+    "icestalactite4": [
+        0,
+        -8
+    ],
+    "icestalagmite1": [
+        -8,
+        0
+    ],
+    "icestalagmite2": [
+        -8,
+        0
+    ],
+    "icestalagmite3": [
+        -8,
+        0
+    ],
+    "icestalagmite4": [
+        -8,
+        0
+    ],
+    "magmaceilingspike1": [
+        0,
+        -8
+    ],
+    "magmaceilingspike2": [
+        0,
+        -8
+    ],
+    "magmaceilingspike3": [
+        0,
+        -8
+    ],
+    "magmagroundspike1": [
+        -8,
+        0
+    ],
+    "magmagroundspike2": [
+        -8,
+        0
+    ],
+    "magmagroundspike3": [
+        -8,
+        0
+    ],
+    "savannahceilingspike1": [
+        0,
+        -8
+    ],
+    "savannahceilingspike2": [
+        0,
+        -8
+    ],
+    "savannahceilingspike3": [
+        0,
+        -8
+    ],
+    "savannahceilingspike4": [
+        0,
+        -8
+    ],
+    "savannahgroundspike1": [
+        -8,
+        0
+    ],
+    "savannahgroundspike2": [
+        -8,
+        0
+    ],
+    "savannahgroundspike3": [
+        -8,
+        0
+    ],
+    "savannahgroundspike4": [
+        -8,
+        0
+    ],
+    "officecabinet": [
+        -16,
+        0
+    ],
+    "officecomputer": [
+        -16,
+        0
+    ],
+    "officedesk": [
+        -24,
+        0
+    ],
+    "officelamp": [
+        -8,
+        0
+    ],
+    "officenoticeboard": [
+        -16,
+        -8
+    ],
+    "officescanner": [
+        -24,
+        0
+    ],
+    "officeserver": [
+        -16,
+        0
+    ],
+    "officestapler": [
+        -8,
+        0
+    ],
+    "officetable": [
+        -23,
+        0
+    ],
+    "2stopshop": [
+        -32,
+        0
+    ],
+    "2stopshopclosed": [
+        -32,
+        0
+    ],
+    "2stoptele": [
+        -24,
+        0
+    ],
+    "bathroomhanddryer": [
+        -8,
+        -8
+    ],
+    "bathroomsink": [
+        -8,
+        -8
+    ],
+    "bathroomstall": [
+        -8,
+        0
+    ],
+    "bathroomtrash": [
+        -8,
+        0
+    ],
+    "bathroomtrashquest": [
+        -8,
+        0
+    ],
+    "bathroomurinal": [
+        -8,
+        -8
+    ],
+    "bench": [
+        -24,
+        0
+    ],
+    "bountyboard": [
+        -24,
+        0
+    ],
+    "coffeemachine": [
+        -8,
+        0
+    ],
+    "customsign": [
+        -18,
+        -2
+    ],
+    "wiredcustomsign": [
+        -18,
+        -2
+    ],
+    "filingcabinet": [
+        -8,
+        0
+    ],
+    "fireextinguisher": [
+        -8,
+        -8
+    ],
+    "floop": [
+        -8,
+        0
+    ],
+    "floor": [
+        -8,
+        0
+    ],
+    "frogfurnishing": [
+        -64,
+        0
+    ],
+    "frogfurnishingclosed": [
+        -64,
+        0
+    ],
+    "hangingbooster": [
+        -16,
+        -32
+    ],
+    "infinityexpress": [
+        -88,
+        0
+    ],
+    "mechsign": [
+        -16,
+        -16
+    ],
+    "number0": [
+        -8,
+        0
+    ],
+    "number1": [
+        0,
+        0
+    ],
+    "number2": [
+        -8,
+        0
+    ],
+    "number3": [
+        -8,
+        0
+    ],
+    "number4": [
+        -8,
+        0
+    ],
+    "number5": [
+        -8,
+        0
+    ],
+    "number6": [
+        -8,
+        0
+    ],
+    "number7": [
+        -8,
+        0
+    ],
+    "number8": [
+        -8,
+        0
+    ],
+    "number9": [
+        -8,
+        0
+    ],
+    "outpostairlock": [
+        -20,
+        0
+    ],
+    "outpostairlocklarge": [
+        -20,
+        0
+    ],
+    "outpostrailairlock": [
+        -20,
+        0
+    ],
+    "outpostbarstool": [
+        -8,
+        0
+    ],
+    "outpostbed": [
+        -24,
+        0
+    ],
+    "outpostbutton": [
+        0,
+        0
+    ],
+    "outpostcabinet": [
+        -8,
+        0
+    ],
+    "outpostcargocrate": [
+        -16,
+        0
+    ],
+    "outpostcargocrateshort": [
+        -16,
+        0
+    ],
+    "outpostceilinglight": [
+        -12,
+        0
+    ],
+    "outpostchair": [
+        -8,
+        0
+    ],
+    "outpostconsole": [
+        -8,
+        0
+    ],
+    "outpostcookingtable": [
+        -16,
+        0
+    ],
+    "outpostcrane": [
+        -24,
+        -32
+    ],
+    "outpostdesk": [
+        -16,
+        0
+    ],
+    "outpostfridge": [
+        -8,
+        0
+    ],
+    "outpostgenerator": [
+        -24,
+        0
+    ],
+    "outposthatchlarge": [
+        -24,
+        -8
+    ],
+    "outpostrailhatch": [
+        -24,
+        -8
+    ],
+    "outpostkeypad": [
+        -8,
+        -8
+    ],
+    "outpostlamp": [
+        0,
+        0
+    ],
+    "outpostlight": [
+        0,
+        0
+    ],
+    "outpostlocker": [
+        -16,
+        0
+    ],
+    "outpostmicrowave": [
+        -8,
+        0
+    ],
+    "outpostmonitor": [
+        -16,
+        -8
+    ],
+    "outpostpc": [
+        -8,
+        0
+    ],
+    "outpostpeacekeeperposter": [
+        -8,
+        -16
+    ],
+    "outpostpublicchair": [
+        -8,
+        0
+    ],
+    "outpostradardish": [
+        -26,
+        0
+    ],
+    "outpostsecurityconsole": [
+        -16,
+        0
+    ],
+    "outpostservicepanel": [
+        -8,
+        0
+    ],
+    "outpostshippingcontainer": [
+        -56,
+        0
+    ],
+    "outpostslidingdoor": [
+        0,
+        0
+    ],
+    "outpostsmallmonitor": [
+        -8,
+        -8
+    ],
+    "outpoststandingdesk": [
+        -8,
+        0
+    ],
+    "outposttable": [
+        -24,
+        0
+    ],
+    "outposttank": [
+        -16,
+        0
+    ],
+    "outpostterminal": [
+        -8,
+        0
+    ],
+    "penguinbarbottom": [
+        -24,
+        0
+    ],
+    "penguinbartop": [
+        -24,
+        0
+    ],
+    "penguinbartop2": [
+        -24,
+        0
+    ],
+    "penguinbarlamp": [
+        0,
+        -8
+    ],
+    "penguinbarsign": [
+        -32,
+        -8
+    ],
+    "penguinbay": [
+        -56,
+        0
+    ],
+    "penguinbayclosed": [
+        -56,
+        0
+    ],
+    "penguinweaponshop": [
+        -98,
+        0
+    ],
+    "penguinweaponshopclosed": [
+        -98,
+        0
+    ],
+    "plasticplant": [
+        -8,
+        0
+    ],
+    "repairo": [
+        -8,
+        0
+    ],
+    "roofvent": [
+        -16,
+        0
+    ],
+    "shipyardcaptain": [
+        -56,
+        0
+    ],
+    "shipyardjunk": [
+        -96,
+        0
+    ],
+    "shipyardwelding": [
+        -80,
+        0
+    ],
+    "signdispenser": [
+        -8,
+        0
+    ],
+    "signstore": [
+        -24,
+        0
+    ],
+    "signstoreclosed": [
+        -24,
+        0
+    ],
+    "techlab": [
+        -104,
+        0
+    ],
+    "techlabconsole1": [
+        -16,
+        0
+    ],
+    "techlabconsole1offline": [
+        -16,
+        0
+    ],
+    "techlabconsole2": [
+        -16,
+        0
+    ],
+    "techlabhologram": [
+        -24,
+        -24
+    ],
+    "techlabscientist": [
+        -12,
+        0
+    ],
+    "techlabscientistshop": [
+        -12,
+        0
+    ],
+    "teddybearplush": [
+        -8,
+        0
+    ],
+    "terramart": [
+        -64,
+        0
+    ],
+    "terramartclosed": [
+        -64,
+        0
+    ],
+    "treasuredtrophies": [
+        -88,
+        0
+    ],
+    "ursaminer": [
+        -98,
+        0
+    ],
+    "ursaminerclosed": [
+        -98,
+        0
+    ],
+    "watercooler": [
+        -8,
+        0
+    ],
+    "peacekeeperchair": [
+        -8,
+        0
+    ],
+    "peacekeepercomputer": [
+        -16,
+        0
+    ],
+    "peacekeeperdesk": [
+        -24,
+        0
+    ],
+    "peacekeeperdoor": [
+        -20,
+        0
+    ],
+    "peacekeeperemblem": [
+        -16,
+        -16
+    ],
+    "peacekeeperemblem2": [
+        -16,
+        -16
+    ],
+    "peacekeeperfurnishings": [
+        -24,
+        0
+    ],
+    "peacekeeperlamppost": [
+        0,
+        0
+    ],
+    "peacekeepermug": [
+        0,
+        0
+    ],
+    "peacekeepernotes": [
+        -24,
+        -16
+    ],
+    "peacekeeperpainting": [
+        -32,
+        -16
+    ],
+    "peacekeeperposter1": [
+        -24,
+        -16
+    ],
+    "peacekeeperposter2": [
+        -24,
+        -16
+    ],
+    "peacekeeperstore1": [
+        -24,
+        -24
+    ],
+    "peacekeeperstore2": [
+        -24,
+        -24
+    ],
+    "peacekeeperstore3": [
+        -24,
+        -24
+    ],
+    "peacekeeperstore4": [
+        -24,
+        -24
+    ],
+    "peacekeepertable": [
+        -16,
+        0
+    ],
+    "peacekeepervendingmachine": [
+        -16,
+        0
+    ],
+    "stationbackground2bend": [
+        -136,
+        -136
+    ],
+    "stationbackgroundbendbot": [
+        -136,
+        -136
+    ],
+    "stationbackgroundbendtop": [
+        -136,
+        -136
+    ],
+    "stationbackgroundcore": [
+        -136,
+        -136
+    ],
+    "stationbackgroundcross": [
+        -136,
+        -136
+    ],
+    "stationbackgroundhugecorediagbot": [
+        -136,
+        -136
+    ],
+    "stationbackgroundhugecorediagtop": [
+        -136,
+        -136
+    ],
+    "stationbackgroundmechbay": [
+        -72,
+        -40
+    ],
+    "stationbackgroundpassage": [
+        -136,
+        -136
+    ],
+    "stationbackgroundpassageglass": [
+        -136,
+        -136
+    ],
+    "stationbackgroundpassageglassleft": [
+        -136,
+        -136
+    ],
+    "stationbackgroundpassageglassright": [
+        -136,
+        -136
+    ],
+    "stationbackgroundshaft": [
+        -136,
+        -136
+    ],
+    "stationbackgroundshaftglass": [
+        -136,
+        -136
+    ],
+    "stationbackgroundshaftglassbottom": [
+        -136,
+        -136
+    ],
+    "stationbackgroundshaftglasstop": [
+        -136,
+        -136
+    ],
+    "stationbackgroundstart": [
+        -136,
+        -136
+    ],
+    "stationbackgroundtjunchorizontalbottom": [
+        -72,
+        -40
+    ],
+    "stationbackgroundtjunchorizontaltop": [
+        -72,
+        -40
+    ],
+    "stationbackgroundtjuncvertical": [
+        -72,
+        -40
+    ],
+    "expansionslot": [
+        -9,
+        -1
+    ],
+    "expansionslothorizontal": [
+        -1,
+        -9
+    ],
+    "playerstationconsole": [
+        -16,
+        -8
+    ],
+    "00back": [
+        0,
+        40
+    ],
+    "00bback": [
+        0,
+        40
+    ],
+    "01back": [
+        0,
+        40
+    ],
+    "01bback": [
+        0,
+        40
+    ],
+    "02back": [
+        0,
+        40
+    ],
+    "02bback": [
+        0,
+        40
+    ],
+    "03back": [
+        0,
+        40
+    ],
+    "03bback": [
+        0,
+        40
+    ],
+    "04back": [
+        0,
+        40
+    ],
+    "04bback": [
+        0,
+        40
+    ],
+    "05back": [
+        0,
+        40
+    ],
+    "05bback": [
+        0,
+        40
+    ],
+    "06back": [
+        0,
+        40
+    ],
+    "06bback": [
+        0,
+        40
+    ],
+    "07back": [
+        0,
+        40
+    ],
+    "07bback": [
+        0,
+        40
+    ],
+    "08back": [
+        0,
+        40
+    ],
+    "08bback": [
+        0,
+        40
+    ],
+    "09back": [
+        0,
+        40
+    ],
+    "09bback": [
+        0,
+        40
+    ],
+    "10back": [
+        0,
+        40
+    ],
+    "10bback": [
+        0,
+        40
+    ],
+    "11back": [
+        0,
+        40
+    ],
+    "11bback": [
+        0,
+        40
+    ],
+    "12back": [
+        0,
+        40
+    ],
+    "12bback": [
+        0,
+        40
+    ],
+    "13back": [
+        0,
+        40
+    ],
+    "13bback": [
+        0,
+        40
+    ],
+    "14back": [
+        0,
+        40
+    ],
+    "14bback": [
+        0,
+        40
+    ],
+    "15back": [
+        0,
+        40
+    ],
+    "15bback": [
+        0,
+        40
+    ],
+    "protectorateamp": [
+        0,
+        0
+    ],
+    "protectoratebeamaxe": [
+        -8,
+        0
+    ],
+    "protectoratebench": [
+        -36,
+        0
+    ],
+    "protectoratebookcabinet": [
+        1,
+        0
+    ],
+    "protectoratebooks": [
+        0,
+        0
+    ],
+    "protectoratebooks2": [
+        -1,
+        0
+    ],
+    "protectoratebrokendisplay1": [
+        0,
+        0
+    ],
+    "protectoratebrokendisplay2": [
+        0,
+        0
+    ],
+    "protectoratebrokenlight": [
+        -32,
+        3
+    ],
+    "protectoratebrokenportrait1": [
+        0,
+        0
+    ],
+    "protectoratebrokenportrait2": [
+        -4,
+        3
+    ],
+    "protectoratebrokenportrait3": [
+        -4,
+        3
+    ],
+    "protectoratebrokenportrait4": [
+        -4,
+        3
+    ],
+    "protectoratebrokenportrait5": [
+        -4,
+        3
+    ],
+    "protectoratebrokenvending": [
+        -14,
+        0
+    ],
+    "protectoratecactiflowerpot": [
+        -1,
+        0
+    ],
+    "protectoratecape": [
+        0,
+        0
+    ],
+    "protectorateclock": [
+        -3,
+        -5
+    ],
+    "protectoratedoor": [
+        -20,
+        0
+    ],
+    "protectoratedormbed": [
+        -24,
+        0
+    ],
+    "protectoratedormmirror": [
+        -8,
+        -12
+    ],
+    "protectoratedormtoilet": [
+        0,
+        0
+    ],
+    "protectoratedormtoiletroll": [
+        0,
+        0
+    ],
+    "protectorateextinguisher": [
+        -5,
+        -3
+    ],
+    "protectoratefallenrope": [
+        0,
+        0
+    ],
+    "protectoratefbannertorn1": [
+        -5,
+        -2
+    ],
+    "protectoratefbannertorn2": [
+        2,
+        -2
+    ],
+    "protectoratefigures": [
+        0,
+        0
+    ],
+    "protectorateflower": [
+        0,
+        0
+    ],
+    "protectorategamesconsole": [
+        1,
+        -4
+    ],
+    "protectorategardenbench": [
+        -18,
+        0
+    ],
+    "protectorategardentree": [
+        -1,
+        0
+    ],
+    "protectorateguidelines": [
+        0,
+        0
+    ],
+    "protectorateguitar": [
+        0,
+        0
+    ],
+    "protectoratehallcurtain": [
+        -4,
+        -12
+    ],
+    "protectoratehallcurtain2": [
+        1,
+        -3
+    ],
+    "protectoratehalllight": [
+        0,
+        0
+    ],
+    "protectoratehologlobe": [
+        0,
+        0
+    ],
+    "protectoratehulagirl": [
+        0,
+        0
+    ],
+    "protectorateincap1": [
+        -8,
+        0
+    ],
+    "protectorateincap2": [
+        -8,
+        0
+    ],
+    "protectorateincap3": [
+        -8,
+        0
+    ],
+    "protectorateincap4": [
+        -8,
+        0
+    ],
+    "protectorateincap5": [
+        -8,
+        0
+    ],
+    "protectorateincap6": [
+        -8,
+        0
+    ],
+    "protectorateinfobooth": [
+        0,
+        0
+    ],
+    "protectoratelavalamp": [
+        0,
+        0
+    ],
+    "protectoratelight": [
+        -32,
+        3
+    ],
+    "protectoratelightrays": [
+        -5,
+        -3
+    ],
+    "protectoratelobbybin": [
+        4,
+        0
+    ],
+    "protectoratelobbychair": [
+        -10,
+        0
+    ],
+    "protectoratelobbylockers": [
+        0,
+        0
+    ],
+    "protectoratelobbylockers2": [
+        0,
+        0
+    ],
+    "protectoratelobbyplant": [
+        -8,
+        0
+    ],
+    "protectoratelobbyracebanners": [
+        -68,
+        -18
+    ],
+    "protectoratelobbytable": [
+        -20,
+        0
+    ],
+    "protectoratelobbytv": [
+        0,
+        0
+    ],
+    "protectoratelobbyvending": [
+        -14,
+        0
+    ],
+    "protectoratemanipulator": [
+        0,
+        0
+    ],
+    "protectorateportrait1": [
+        2,
+        2
+    ],
+    "protectorateportrait2": [
+        -6,
+        -6
+    ],
+    "protectorateportrait3": [
+        -6,
+        -6
+    ],
+    "protectorateportrait4": [
+        -6,
+        -6
+    ],
+    "protectorateportrait5": [
+        -6,
+        -6
+    ],
+    "protectorateposter1": [
+        -8,
+        -8
+    ],
+    "protectorateposter2": [
+        -8,
+        -16
+    ],
+    "protectorateradio": [
+        0,
+        0
+    ],
+    "protectoraterobe": [
+        0,
+        0
+    ],
+    "protectorateroofdetail01": [
+        0,
+        0
+    ],
+    "protectorateroofdetail02": [
+        0,
+        0
+    ],
+    "protectorateroofdetail03": [
+        0,
+        0
+    ],
+    "protectorateroofdetail04": [
+        0,
+        0
+    ],
+    "protectorateroofdetail05": [
+        0,
+        0
+    ],
+    "protectoraterooftopprop1": [
+        -16,
+        0
+    ],
+    "protectoraterooftopprop2": [
+        -26,
+        0
+    ],
+    "protectoraterooftopprop3": [
+        -45,
+        0
+    ],
+    "protectoraterooftopprop4": [
+        -45,
+        0
+    ],
+    "protectoraterope": [
+        0,
+        0
+    ],
+    "protectoraterubble": [
+        -37,
+        -10
+    ],
+    "protectoratesecuritystation": [
+        0,
+        0
+    ],
+    "protectorateship": [
+        0,
+        0
+    ],
+    "protectoratesmokegen": [
+        0,
+        0
+    ],
+    "protectoratesmokeprimer": [
+        -16,
+        0
+    ],
+    "protectoratestorage1": [
+        0,
+        0
+    ],
+    "protectoratestorage2": [
+        0,
+        0
+    ],
+    "protectoratestorage3": [
+        0,
+        0
+    ],
+    "protectoratestorage4": [
+        0,
+        0
+    ],
+    "protectoratestorage5": [
+        0,
+        0
+    ],
+    "protectoratestorage6": [
+        0,
+        0
+    ],
+    "protectoratestorageempty": [
+        0,
+        0
+    ],
+    "protectoratetentacle": [
+        3,
+        0
+    ],
+    "protectoratetentacle2": [
+        0,
+        0
+    ],
+    "protectoratetoolbox": [
+        0,
+        0
+    ],
+    "protectoratewallbanner": [
+        -17,
+        -40
+    ],
+    "protectoratewastebin": [
+        -1,
+        0
+    ],
+    "protectoratewaterdispenser": [
+        1,
+        0
+    ],
+    "protectoratewatertank": [
+        -45,
+        0
+    ],
+    "protectoratewindbanner": [
+        -17,
+        0
+    ],
+    "protectoratewindbanner2": [
+        -16,
+        0
+    ],
+    "protectoratewindbanner3": [
+        -17,
+        0
+    ],
+    "protectorategardenwindchimes": [
+        -8,
+        -12
+    ],
+    "railbumper": [
+        -2,
+        -2
+    ],
+    "railsensor": [
+        -4,
+        -4
+    ],
+    "railstop": [
+        -2,
+        -2
+    ],
+    "railswitch": [
+        -4,
+        -4
+    ],
+    "railtramstop": [
+        -2,
+        -8
+    ],
+    "apexcaptainschair": [
+        -12,
+        0
+    ],
+    "apexfuelhatch": [
+        -8,
+        -16
+    ],
+    "apexshipdoor": [
+        -20,
+        0
+    ],
+    "apexshiphatch": [
+        -16,
+        -20
+    ],
+    "apexshipdoorBroken": [
+        -20,
+        0
+    ],
+    "apexshiplight": [
+        -8,
+        0
+    ],
+    "apexshiplightBroken": [
+        -8,
+        0
+    ],
+    "apexshiplocker": [
+        -16,
+        -8
+    ],
+    "apexshiplockerTier0": [
+        -16,
+        -8
+    ],
+    "aviancaptainschair": [
+        -12,
+        0
+    ],
+    "avianfuelhatch": [
+        -8,
+        -16
+    ],
+    "avianshipdoor": [
+        -20,
+        0
+    ],
+    "avianshiphatch": [
+        -16,
+        -20
+    ],
+    "avianshipdoorBroken": [
+        -20,
+        0
+    ],
+    "avianshiplocker": [
+        -16,
+        -8
+    ],
+    "avianshiplockerTier0": [
+        -16,
+        -8
+    ],
+    "aviantechstation": [
+        -16,
+        -8
+    ],
+    "aviantechstationTier0": [
+        -16,
+        -8
+    ],
+    "avianteleporter": [
+        -32,
+        0
+    ],
+    "avianteleporterTier0": [
+        -32,
+        0
+    ],
+    "bigboosterflame": [
+        -32,
+        -35
+    ],
+    "bigboosterflameavian": [
+        -35,
+        -40
+    ],
+    "bigboosterflameglitch": [
+        -35,
+        -35
+    ],
+    "bigboosterflamehuman": [
+        -37,
+        -42
+    ],
+    "encounterbigboosterflame": [
+        -32,
+        -30
+    ],
+    "boosterflame": [
+        -32,
+        -32
+    ],
+    "boosterflameapex": [
+        -34,
+        -31
+    ],
+    "boosterflameapex2": [
+        -36,
+        -32
+    ],
+    "boosterflameapex3": [
+        -34,
+        -33
+    ],
+    "boosterflamehuman2": [
+        -32,
+        -29
+    ],
+    "boosterflamehuman3": [
+        -32,
+        -35
+    ],
+    "boosterflamenovakid": [
+        -31,
+        -30
+    ],
+    "encounterboosterflame": [
+        -33,
+        -32
+    ],
+    "boosterflamehuman": [
+        -32,
+        -32
+    ],
+    "encounterboosterflamehuman": [
+        -32,
+        -44
+    ],
+    "encountersmallboosterflame": [
+        -11,
+        -21
+    ],
+    "encountersmallboosterflame2": [
+        -15,
+        -21
+    ],
+    "smallboosterflame": [
+        -14,
+        -14
+    ],
+    "smallboosterflameglitch": [
+        -14,
+        -13
+    ],
+    "smallboosterflamehuman2": [
+        -15,
+        -14
+    ],
+    "brokenapexfuelhatch": [
+        -8,
+        -16
+    ],
+    "brokenavianfuelhatch": [
+        -8,
+        -16
+    ],
+    "brokenfloranfuelhatch": [
+        -8,
+        -16
+    ],
+    "brokenglitchfuelhatch": [
+        -8,
+        -16
+    ],
+    "brokenhumanfuelhatch": [
+        -8,
+        -16
+    ],
+    "brokenhylotlfuelhatch": [
+        -8,
+        -16
+    ],
+    "brokennovakidfuelhatch": [
+        -8,
+        -16
+    ],
+    "florancaptainschair": [
+        -12,
+        0
+    ],
+    "floranfuelhatch": [
+        -8,
+        -16
+    ],
+    "floranshipdoor": [
+        -20,
+        0
+    ],
+    "floranshiphatch": [
+        -16,
+        -20
+    ],
+    "floranshipdoorBroken": [
+        -20,
+        0
+    ],
+    "floranshiplocker": [
+        -16,
+        -8
+    ],
+    "floranshiplockerTier0": [
+        -16,
+        -8
+    ],
+    "florantechstation": [
+        -16,
+        -8
+    ],
+    "florantechstationTier0": [
+        -16,
+        -8
+    ],
+    "floranteleporter": [
+        -32,
+        0
+    ],
+    "floranteleporterTier0": [
+        -32,
+        0
+    ],
+    "glitchcaptainschair": [
+        -12,
+        0
+    ],
+    "glitchfuelhatch": [
+        -8,
+        -16
+    ],
+    "glitchshipdoor": [
+        -20,
+        0
+    ],
+    "glitchshiphatch": [
+        -16,
+        -20
+    ],
+    "glitchshipdoorBroken": [
+        -20,
+        0
+    ],
+    "glitchshiplocker": [
+        -16,
+        -8
+    ],
+    "glitchshiplockerTier0": [
+        -16,
+        -8
+    ],
+    "glitchtechstation": [
+        -16,
+        -8
+    ],
+    "glitchtechstationTier0": [
+        -16,
+        -8
+    ],
+    "glitchteleporter": [
+        -32,
+        0
+    ],
+    "glitchteleporterTier0": [
+        -32,
+        0
+    ],
+    "humancaptainschair": [
+        -12,
+        0
+    ],
+    "humanfuelhatch": [
+        -8,
+        -16
+    ],
+    "humanshipdoor": [
+        -20,
+        0
+    ],
+    "humanshiphatch": [
+        -16,
+        -20
+    ],
+    "humanshipdoorBroken": [
+        -20,
+        0
+    ],
+    "humanshiplocker": [
+        -16,
+        -8
+    ],
+    "humanshiplockerTier0": [
+        -16,
+        -8
+    ],
+    "humantechstation": [
+        -16,
+        -8
+    ],
+    "humantechstationTier0": [
+        -16,
+        -8
+    ],
+    "humanteleporter": [
+        -32,
+        0
+    ],
+    "humanteleporterTier0": [
+        -32,
+        0
+    ],
+    "hylotlcaptainschair": [
+        -12,
+        0
+    ],
+    "hylotlfuelhatch": [
+        -8,
+        -16
+    ],
+    "hylotlshipdoor": [
+        -20,
+        0
+    ],
+    "hylotlshiphatch": [
+        -16,
+        -20
+    ],
+    "hylotlshipdoorBroken": [
+        -20,
+        0
+    ],
+    "hylotlshiplocker": [
+        -16,
+        -8
+    ],
+    "hylotlshiplockerTier0": [
+        -16,
+        -8
+    ],
+    "hylotltechstation": [
+        -16,
+        -8
+    ],
+    "hylotltechstationTier0": [
+        -16,
+        -8
+    ],
+    "hylotlteleporter": [
+        -32,
+        0
+    ],
+    "hylotlteleporterTier0": [
+        -32,
+        0
+    ],
+    "novakidcaptainschair": [
+        -12,
+        0
+    ],
+    "novakidfuelhatch": [
+        -8,
+        -16
+    ],
+    "novakidshipdoor": [
+        -20,
+        0
+    ],
+    "novakidshiphatch": [
+        -16,
+        -20
+    ],
+    "novakidshipdoorBroken": [
+        -20,
+        0
+    ],
+    "novakidshiplocker": [
+        -16,
+        -8
+    ],
+    "novakidshiplockerTier0": [
+        -16,
+        -8
+    ],
+    "novakidtechstation": [
+        -16,
+        -8
+    ],
+    "novakidtechstationTier0": [
+        -16,
+        -8
+    ],
+    "novakidteleporter": [
+        -32,
+        0
+    ],
+    "novakidteleporterTier0": [
+        -32,
+        0
+    ],
+    "researchstation": [
+        -16,
+        0
+    ],
+    "techstation": [
+        -16,
+        -8
+    ],
+    "techstationTier0": [
+        -16,
+        -8
+    ],
+    "teleporter": [
+        -32,
+        0
+    ],
+    "teleporterTier0": [
+        -32,
+        0
+    ],
+    "astrocabinet": [
+        -16,
+        0
+    ],
+    "astroceilingmonitor": [
+        -14,
+        -20
+    ],
+    "astrochair": [
+        -8,
+        0
+    ],
+    "astroconsole": [
+        -24,
+        0
+    ],
+    "astrocrate": [
+        -24,
+        0
+    ],
+    "astrodoor": [
+        -20,
+        0
+    ],
+    "astrolight": [
+        -8,
+        -8
+    ],
+    "astromonitor": [
+        -8,
+        0
+    ],
+    "astroserver": [
+        -8,
+        0
+    ],
+    "astrostoragelocker": [
+        -16,
+        -8
+    ],
+    "astrotable": [
+        -16,
+        0
+    ],
+    "astrovent": [
+        -16,
+        0
+    ],
+    "astrowallpanel": [
+        -16,
+        -8
+    ],
+    "dockingfield": [
+        -4,
+        0
+    ],
+    "dockingfieldsmall": [
+        -4,
+        0
+    ],
+    "industrialbed": [
+        -24,
+        0
+    ],
+    "industrialcanister": [
+        -12,
+        0
+    ],
+    "industrialchair": [
+        -8,
+        0
+    ],
+    "industrialcomputer": [
+        -16,
+        0
+    ],
+    "industrialcrate": [
+        -16,
+        0
+    ],
+    "industrialdisplay": [
+        -16,
+        0
+    ],
+    "industrialdoor": [
+        -20,
+        0
+    ],
+    "industriallight": [
+        -8,
+        0
+    ],
+    "industrialstoragelocker": [
+        -16,
+        -8
+    ],
+    "industrialtable": [
+        -16,
+        0
+    ],
+    "lunarlander": [
+        -32,
+        0
+    ],
+    "shipgreeble1": [
+        -16,
+        0
+    ],
+    "shipgreeble2": [
+        -16,
+        0
+    ],
+    "shipgreeble3": [
+        -16,
+        0
+    ],
+    "shipgreeble4": [
+        -16,
+        0
+    ],
+    "solarpanel": [
+        -16,
+        0
+    ],
+    "spacebarbottom": [
+        -32,
+        0
+    ],
+    "spaceslideshow": [
+        -32,
+        -16
+    ],
+    "stationbench": [
+        -24,
+        0
+    ],
+    "stationceilingvent": [
+        -8,
+        -8
+    ],
+    "stationchair": [
+        -8,
+        0
+    ],
+    "stationconsole": [
+        -8,
+        0
+    ],
+    "stationcrate": [
+        -16,
+        0
+    ],
+    "stationdisplay": [
+        -16,
+        -8
+    ],
+    "stationdoor": [
+        -20,
+        0
+    ],
+    "stationdoorlarge": [
+        -20,
+        0
+    ],
+    "stationhatch": [
+        -24,
+        -8
+    ],
+    "stationrailhatch": [
+        -24,
+        -8
+    ],
+    "stationhologram": [
+        -16,
+        0
+    ],
+    "stationlighth": [
+        -16,
+        0
+    ],
+    "stationlightv": [
+        0,
+        -16
+    ],
+    "stationmedscanner": [
+        -24,
+        0
+    ],
+    "stationpylon": [
+        -16,
+        0
+    ],
+    "stationtable": [
+        -16,
+        0
+    ],
+    "stationtradesignelectronics": [
+        -8,
+        -8
+    ],
+    "stationtradesignfood": [
+        -8,
+        -8
+    ],
+    "stationtradesignmedic": [
+        -8,
+        -8
+    ],
+    "stationtradesignweapons": [
+        -8,
+        -8
+    ],
+    "stationvendingmachine": [
+        -16,
+        0
+    ],
+    "stationwallpanel": [
+        -8,
+        -8
+    ],
+    "telescope": [
+        -28,
+        0
+    ],
+    "wiredtarget": [
+        -8,
+        -8
+    ],
+    "invisiblemonsterspawner": [
+        -8,
+        0
+    ],
+    "monsterspawner": [
+        -8,
+        0
+    ],
+    "colonydeed": [
+        -8,
+        -8
+    ],
+    "pettether": [
+        -6,
+        0
+    ],
+    "spawnerapex": [
+        -8,
+        0
+    ],
+    "spawneravian": [
+        -8,
+        0
+    ],
+    "spawnerchef": [
+        -8,
+        0
+    ],
+    "spawnerfloran": [
+        -8,
+        0
+    ],
+    "spawnerglitch": [
+        -8,
+        0
+    ],
+    "spawnerguard": [
+        -8,
+        0
+    ],
+    "spawnerhuman": [
+        -8,
+        0
+    ],
+    "spawnerhylotl": [
+        -8,
+        0
+    ],
+    "spawnerwizard": [
+        -8,
+        0
+    ],
+    "spawnerstation": [
+        -16,
+        0
+    ],
+    "arkdestinationteleporter": [
+        -16,
+        0
+    ],
+    "arkteleporter": [
+        -16,
+        0
+    ],
+    "blackteleporter": [
+        -16,
+        0
+    ],
+    "brassteleporter": [
+        -16,
+        0
+    ],
+    "exitteleporter": [
+        -16,
+        0
+    ],
+    "returnteleporter": [
+        -16,
+        0
+    ],
+    "futureteleporter": [
+        -16,
+        0
+    ],
+    "peacekeeperteleporter": [
+        -16,
+        0
+    ],
+    "remoteteleporter": [
+        -32,
+        0
+    ],
+    "returnoutpostteleporter": [
+        -16,
+        0
+    ],
+    "scienceteleporter": [
+        -16,
+        0
+    ],
+    "stoneteleporter": [
+        -16,
+        0
+    ],
+    "tombteleporter": [
+        -16,
+        0
+    ],
+    "woodenteleporter": [
+        -16,
+        0
+    ],
+    "terraformeralien": [
+        -16,
+        0
+    ],
+    "terraformerdesert": [
+        -16,
+        0
+    ],
+    "terraformerforest": [
+        -16,
+        0
+    ],
+    "terraformergarden": [
+        -16,
+        0
+    ],
+    "terraformerjungle": [
+        -16,
+        0
+    ],
+    "terraformermidnight": [
+        -16,
+        0
+    ],
+    "terraformersavannah": [
+        -16,
+        0
+    ],
+    "terraformerscorched": [
+        -16,
+        0
+    ],
+    "terraformersnow": [
+        -16,
+        0
+    ],
+    "terraformertundra": [
+        -16,
+        0
+    ],
+    "terraformervolcanic": [
+        -16,
+        0
+    ],
+    "earthmodel": [
+        0,
+        -24
+    ],
+    "jupitermodel": [
+        -4,
+        -32
+    ],
+    "liftoffseat": [
+        -16,
+        0
+    ],
+    "marsmodel": [
+        0,
+        -24
+    ],
+    "mercurymodel": [
+        0,
+        -24
+    ],
+    "neptunemodel": [
+        -4,
+        -32
+    ],
+    "plutomodel": [
+        0,
+        -24
+    ],
+    "satellite": [
+        -32,
+        0
+    ],
+    "saturnmodel": [
+        -12,
+        -32
+    ],
+    "spaceshuttlebed": [
+        -32,
+        0
+    ],
+    "sunmodel": [
+        -12,
+        -32
+    ],
+    "uranusmodel": [
+        -4,
+        -32
+    ],
+    "venusmodel": [
+        0,
+        -24
+    ],
+    "cabinbunkbed": [
+        -24,
+        0
+    ],
+    "cabinchair": [
+        -8,
+        0
+    ],
+    "cabinlamp": [
+        -7,
+        0
+    ],
+    "cabinornament": [
+        -25,
+        0
+    ],
+    "cabinstooltable": [
+        -8,
+        0
+    ],
+    "cabinstove": [
+        -9,
+        0
+    ],
+    "cabintable": [
+        -16,
+        0
+    ],
+    "doombed": [
+        -24,
+        0
+    ],
+    "doomchair": [
+        -12,
+        0
+    ],
+    "doomdoor": [
+        -16,
+        0
+    ],
+    "doomlight": [
+        0,
+        0
+    ],
+    "doomswitch": [
+        -8,
+        0
+    ],
+    "doomtable": [
+        -16,
+        0
+    ],
+    "egyptianbed": [
+        -24,
+        0
+    ],
+    "egyptianchair": [
+        -16,
+        0
+    ],
+    "egyptiancrest": [
+        -24,
+        -8
+    ],
+    "egyptianlamp": [
+        -16,
+        0
+    ],
+    "egyptianpillar": [
+        -16,
+        0
+    ],
+    "egyptianstatuette": [
+        -8,
+        0
+    ],
+    "egyptiantable": [
+        -24,
+        0
+    ],
+    "executivebed": [
+        -24,
+        0
+    ],
+    "executivechair": [
+        -8,
+        0
+    ],
+    "executivedoor": [
+        -20,
+        0
+    ],
+    "executivelight": [
+        -8,
+        0
+    ],
+    "executiveswitch": [
+        -8,
+        0
+    ],
+    "executivetable": [
+        -16,
+        0
+    ],
+    "applebasket": [
+        -8,
+        0
+    ],
+    "baguettebox": [
+        -8,
+        0
+    ],
+    "kitchencabinet1": [
+        -16,
+        0
+    ],
+    "kitchencabinet2": [
+        -16,
+        0
+    ],
+    "kitchenceilingcabinet1": [
+        -16,
+        0
+    ],
+    "kitchenceilingcabinet2": [
+        -16,
+        0
+    ],
+    "kitchenshelf": [
+        -16,
+        0
+    ],
+    "kitchenstovetop": [
+        -16,
+        0
+    ],
+    "kitchentable": [
+        -16,
+        0
+    ],
+    "geometricbed": [
+        -24,
+        0
+    ],
+    "geometricchair": [
+        -8,
+        0
+    ],
+    "geometricdoor": [
+        -16,
+        0
+    ],
+    "geometriclight": [
+        0,
+        0
+    ],
+    "geometricswitch": [
+        -8,
+        0
+    ],
+    "geometrictable": [
+        -16,
+        0
+    ],
+    "gothicbed": [
+        -13,
+        0
+    ],
+    "gothicbookcase": [
+        -16,
+        0
+    ],
+    "gothicchair": [
+        -8,
+        0
+    ],
+    "gothiccouch": [
+        -25,
+        0
+    ],
+    "gothicdoor": [
+        -16,
+        0
+    ],
+    "gothiclight": [
+        -8,
+        0
+    ],
+    "hulagirl": [
+        0,
+        0
+    ],
+    "islandcabinet": [
+        -16,
+        0
+    ],
+    "islandchair": [
+        -8,
+        0
+    ],
+    "islandhammock": [
+        -16,
+        0
+    ],
+    "islandlamp": [
+        -8,
+        -16
+    ],
+    "islandtable": [
+        -16,
+        0
+    ],
+    "opulentbed": [
+        -24,
+        0
+    ],
+    "opulentchair": [
+        -8,
+        0
+    ],
+    "opulentdoor": [
+        -16,
+        0
+    ],
+    "opulentlight": [
+        0,
+        0
+    ],
+    "opulentswitch": [
+        -8,
+        0
+    ],
+    "opulenttable": [
+        -16,
+        0
+    ],
+    "lamppost1": [
+        0,
+        0
+    ],
+    "lamppost2": [
+        -8,
+        0
+    ],
+    "lamppost3": [
+        -8,
+        0
+    ],
+    "outdoorbench": [
+        -16,
+        0
+    ],
+    "outdoorchair": [
+        -8,
+        0
+    ],
+    "outdoorfountain": [
+        -24,
+        0
+    ],
+    "outdoorstool": [
+        -8,
+        0
+    ],
+    "pastelbed": [
+        -24,
+        0
+    ],
+    "pastelbunnyplush": [
+        -8,
+        0
+    ],
+    "pastelcabinet": [
+        -8,
+        0
+    ],
+    "pastelchair": [
+        -8,
+        0
+    ],
+    "pastellight": [
+        0,
+        0
+    ],
+    "pastelstool": [
+        -8,
+        0
+    ],
+    "pasteltable": [
+        -16,
+        0
+    ],
+    "pastelwallclock": [
+        -8,
+        -8
+    ],
+    "pastelwardrobe": [
+        -16,
+        0
+    ],
+    "retroscifibed": [
+        -16,
+        0
+    ],
+    "retroscificabinet": [
+        -8,
+        0
+    ],
+    "retroscifichair": [
+        -10,
+        0
+    ],
+    "retroscifidresser": [
+        -12,
+        0
+    ],
+    "retroscifilight": [
+        0,
+        -8
+    ],
+    "retroscifitable": [
+        -16,
+        0
+    ],
+    "retroscifitv": [
+        -16,
+        0
+    ],
+    "coralmirror": [
+        -6,
+        -6
+    ],
+    "seabed": [
+        -24,
+        0
+    ],
+    "seachair": [
+        -16,
+        0
+    ],
+    "sealamp": [
+        -8,
+        0
+    ],
+    "seaweedpot": [
+        -8,
+        0
+    ],
+    "serenebed": [
+        -24,
+        0
+    ],
+    "serenechair": [
+        -8,
+        0
+    ],
+    "serenedoor": [
+        -16,
+        0
+    ],
+    "serenelight": [
+        0,
+        0
+    ],
+    "sereneswitch": [
+        -8,
+        0
+    ],
+    "serenetable": [
+        -16,
+        0
+    ],
+    "spookybed": [
+        -24,
+        0
+    ],
+    "spookycandles": [
+        -8,
+        0
+    ],
+    "spookycauldron": [
+        -16,
+        0
+    ],
+    "spookyclock": [
+        -8,
+        0
+    ],
+    "spookypumpkinhead": [
+        -8,
+        0
+    ],
+    "spookytombchair": [
+        -10,
+        0
+    ],
+    "steampunkarmchair": [
+        -16,
+        0
+    ],
+    "steampunkbed": [
+        -24,
+        0
+    ],
+    "steampunkdesk": [
+        -24,
+        0
+    ],
+    "steampunkglobe": [
+        -8,
+        0
+    ],
+    "steampunklamp": [
+        0,
+        -8
+    ],
+    "steampunkshelf": [
+        -23,
+        0
+    ],
+    "wavebed": [
+        -24,
+        0
+    ],
+    "wavechair": [
+        -8,
+        0
+    ],
+    "wavedoor": [
+        -20,
+        0
+    ],
+    "wavelight": [
+        0,
+        0
+    ],
+    "waveswitch": [
+        -8,
+        0
+    ],
+    "wavetable": [
+        -16,
+        0
+    ],
+    "tier1bed": [
+        -24,
+        0
+    ],
+    "tier1chair": [
+        -8,
+        0
+    ],
+    "tier1door": [
+        -16,
+        0
+    ],
+    "tier1light": [
+        0,
+        0
+    ],
+    "tier1spotlight": [
+        0,
+        0
+    ],
+    "tier1switch": [
+        -8,
+        0
+    ],
+    "tier1table": [
+        -16,
+        0
+    ],
+    "tier2bed": [
+        -24,
+        0
+    ],
+    "tier2chair": [
+        -8,
+        0
+    ],
+    "tier2door": [
+        -16,
+        0
+    ],
+    "tier2light": [
+        0,
+        0
+    ],
+    "tier2switch": [
+        -8,
+        0
+    ],
+    "tier2table": [
+        -16,
+        0
+    ],
+    "tier3bed": [
+        -24,
+        0
+    ],
+    "tier3chair": [
+        -8,
+        0
+    ],
+    "tier3door": [
+        -16,
+        0
+    ],
+    "tier3light": [
+        0,
+        0
+    ],
+    "tier3switch": [
+        -8,
+        0
+    ],
+    "tier3table": [
+        -16,
+        0
+    ],
+    "tier4bed": [
+        -24,
+        0
+    ],
+    "tier4chair": [
+        -8,
+        0
+    ],
+    "tier4door": [
+        -20,
+        0
+    ],
+    "tier4light": [
+        0,
+        0
+    ],
+    "tier4switch": [
+        -8,
+        0
+    ],
+    "tier4table": [
+        -16,
+        0
+    ],
+    "ancientbouldertrap": [
+        -16,
+        -16
+    ],
+    "ancientcrystaltrap": [
+        -8,
+        0
+    ],
+    "ancientflametrap": [
+        -8,
+        0
+    ],
+    "ancienticetrap": [
+        -8,
+        0
+    ],
+    "arenaflametrap": [
+        -8,
+        0
+    ],
+    "bouldertrap": [
+        -16,
+        -16
+    ],
+    "crystaltrap": [
+        -8,
+        0
+    ],
+    "flametrap": [
+        -8,
+        0
+    ],
+    "floranbouldertrap": [
+        -16,
+        -16
+    ],
+    "freezetrap": [
+        -32,
+        0
+    ],
+    "wallb": [
+        0,
+        0
+    ],
+    "techconsole": [
+        -8,
+        0
+    ],
+    "alarm": [
+        -8,
+        -8
+    ],
+    "bigredbutton": [
+        -12,
+        0
+    ],
+    "drain": [
+        0,
+        0
+    ],
+    "jumppad": [
+        -8,
+        0
+    ],
+    "invisiblesound": [
+        -8,
+        -8
+    ],
+    "keypad": [
+        -8,
+        -8
+    ],
+    "landmine": [
+        -8,
+        0
+    ],
+    "lightsensor": [
+        0,
+        0
+    ],
+    "liquidsensor": [
+        0,
+        0
+    ],
+    "and": [
+        -8,
+        -8
+    ],
+    "bulb": [
+        -8,
+        -8
+    ],
+    "countdowntimer": [
+        -8,
+        -8
+    ],
+    "delay": [
+        -8,
+        -8
+    ],
+    "dlatch": [
+        -8,
+        -8
+    ],
+    "invisibleand": [
+        -8,
+        -8
+    ],
+    "invisiblecountdowntimer": [
+        -8,
+        -8
+    ],
+    "invisibledelay": [
+        -8,
+        -8
+    ],
+    "invisibledlatch": [
+        -8,
+        -8
+    ],
+    "invisiblenot": [
+        -8,
+        -8
+    ],
+    "invisibleor": [
+        -8,
+        -8
+    ],
+    "invisibletimer": [
+        -8,
+        -8
+    ],
+    "invisiblexor": [
+        -8,
+        -8
+    ],
+    "not": [
+        -8,
+        -8
+    ],
+    "or": [
+        -8,
+        -8
+    ],
+    "timer": [
+        -8,
+        -8
+    ],
+    "timer1s": [
+        -8,
+        -8
+    ],
+    "timer2s": [
+        -8,
+        -8
+    ],
+    "timer3s": [
+        -8,
+        -8
+    ],
+    "timer4s": [
+        -8,
+        -8
+    ],
+    "timer5s": [
+        -8,
+        -8
+    ],
+    "xor": [
+        -8,
+        -8
+    ],
+    "invisiblepersistentswitch": [
+        -8,
+        -8
+    ],
+    "persistentswitch": [
+        -8,
+        -8
+    ],
+    "invisibleproximitysensor": [
+        -8,
+        0
+    ],
+    "proximitysensor": [
+        -8,
+        0
+    ],
+    "scanner": [
+        0,
+        0
+    ],
+    "secretdoor": [
+        -8,
+        0
+    ],
+    "secrettrapdoor": [
+        -16,
+        -8
+    ],
+    "shieldgenerator": [
+        -8,
+        -8
+    ],
+    "smallfloorbutton": [
+        -6,
+        0
+    ],
+    "smallwallbutton": [
+        -8,
+        -8
+    ],
+    "invisiblewallswitch": [
+        -8,
+        -8
+    ],
+    "smallwallswitch": [
+        -8,
+        -8
+    ],
+    "smallwallswitchlit": [
+        -8,
+        -8
+    ],
+    "standingturret": [
+        -16,
+        0
+    ],
+    "tinywallbutton": [
+        0,
+        0
+    ],
+    "tinywallswitch": [
+        0,
+        0
+    ],
+    "wreckbed": [
+        -24,
+        0
+    ],
+    "wreckboiler": [
+        -16,
+        0
+    ],
+    "wreckchair": [
+        -8,
+        0
+    ],
+    "wreckconsole1": [
+        -16,
+        0
+    ],
+    "wreckconsole2": [
+        -16,
+        0
+    ],
+    "wreckconsole3": [
+        -8,
+        0
+    ],
+    "wreckcrate1": [
+        -8,
+        0
+    ],
+    "wreckdoor": [
+        -16,
+        0
+    ],
+    "wreckfan": [
+        -8,
+        -8
+    ],
+    "wreckgenerator": [
+        -40,
+        0
+    ],
+    "wrecklocker": [
+        -8,
+        0
+    ],
+    "wreckpanel1": [
+        -8,
+        0
+    ],
+    "wreckpanel2": [
+        0,
+        0
+    ],
+    "wreckscreen": [
+        -16,
+        -8
+    ],
+    "wrecksmalltable": [
+        -8,
+        0
+    ],
+    "wrecksupport": [
+        0,
+        0
+    ],
+    "wrecktable": [
+        -16,
+        0
+    ],
+    "wreckturbine2": [
+        -24,
+        0
+    ],
+    "wreckturbines": [
+        -16,
+        0
+    ],
+    "wrecktv": [
+        -24,
+        -16
+    ],
+    "wreckvat1": [
+        -8,
+        0
+    ],
+    "wreckvendingmachine": [
+        -8,
+        0
+    ],
+    "wreckvent": [
+        0,
+        0
+    ],
+    "wreckwiresceiling": [
+        -8,
+        -4
+    ]
+}
